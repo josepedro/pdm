@@ -1,0 +1,80 @@
+\providecommand{\abntreprintinfo}[1]{%
+ \citeonline{#1}}
+\setlength{\labelsep}{0pt}\begin{thebibliography}{}
+\providecommand{\abntrefinfo}[3]{}
+\providecommand{\abntbstabout}[1]{}
+\abntbstabout{1.45.2.1 }
+
+\bibitem[ASTM-D6193 1997]{astmd6193}
+\abntrefinfo{ASTM-D6193}{ASTM-D6193}{1997}
+{ASTM-D6193. \emph{Standard practice for stitches and seams}.
+Filadélfia, 1997. 150~p.}
+
+\bibitem[Brown 2007]{brown2007}
+\abntrefinfo{Brown}{BROWN}{2007}
+{BROWN, S. \emph{Cycle tyres and tubes}. 2007.
+\ $<$http://sheldonbrown.com/tyres.html$>$. Acessado em 21/08/2013.}
+
+\bibitem[Hartenberg and Denavit 1964]{hartenberg1964kinematic}
+\abntrefinfo{Hartenberg and Denavit}{HARTENBERG; DENAVIT}{1964}
+{HARTENBERG, R.~S.; DENAVIT, J. \emph{Kinematic synthesis of linkages}. New
+  York: McGraw-Hill, 1964.}
+
+\bibitem[ISO-4915 1991]{iso4915}
+\abntrefinfo{ISO-4915}{ISO-4915}{1991}
+{ISO-4915. \emph{Textiles - Stitch types - Classification and terminology}.
+Genebra, 1991. 48~p.}
+
+\bibitem[NBR-13483 1995]{nbr13483}
+\abntrefinfo{NBR-13483}{NBR-13483}{1995}
+{NBR-13483. \emph{Material têxtil - Tipos de pontos}.
+São Paulo, 1995. 21~p.}
+
+\bibitem[Saadi et al. 2006]{saadi2006tratamento}
+\abntrefinfo{Saadi et al.}{SAADI et al.}{2006}
+{SAADI, E.~K.; GASTALDO, F.; DUSSIN, L.~H.; ZAGO, A.~J.; BARBOSA, G.; MOURA, L.
+  Tratamento endovascular de aneurismas de aorta abdominal: experiência inicial
+  e resultados a curto e médio prazo.
+\emph{Brazilian Journal of Cardiovascular Surgery}, v.~21, n.~2, p. 211--216,
+  2006.}
+
+\bibitem[Schroeter 2013]{schroeter2013}
+\abntrefinfo{Schroeter}{SCHROETER}{2013}
+{SCHROETER, R.~B. \emph{Escrita de dissertações e teses - dicas para melhorar}.
+  2013.
+\ $<$http://ppgmec.posgrad.ufsc.br/galeria-de-midias/$>$. Acessado em
+  20/04/2016.}
+
+\bibitem[SITE 2011]{site2011}
+\abntrefinfo{SITE}{SITE}{2011}
+{SITE. \emph{{Serviço Integrado de Técnicas Endovasculares}}. 2011.
+\ $<$http://www.siteendovascular.com/cirurgia-endovascular.php$>$. Acessado em
+  21/10/2011.}
+
+\bibitem[Solent 2013]{solent2013}
+\abntrefinfo{Solent}{SOLENT}{2013}
+{SOLENT. \emph{{Solent Sewing and Welding Solutions}}. 2013.
+\ $<$http://www.solentsew.co.uk/categories/Product-by-industry/Filters,-Ductin%
+g-and-CIPP/$>$. Acessado em 09/10/2013.}
+
+\bibitem[Srikrishnan, Parthiban and Viju 2011]{srikrishnan2011robotics}
+\abntrefinfo{Srikrishnan, Parthiban and Viju}{SRIKRISHNAN; PARTHIBAN;
+  VIJU}{2011}
+{SRIKRISHNAN, M.~R.; PARTHIBAN, M.; VIJU, S. Robotics: a high tech revolution
+  in apparel manufacturing and technology.
+\emph{International Journal of Textile and Fashion Technology}, v.~1, n.~1, p.
+  11--20, 2011.}
+
+\bibitem[Yan 1999]{yan1999creative}
+\abntrefinfo{Yan}{YAN}{1999}
+{YAN, H.~S. \emph{Creative Design of Mechanical Devices}. Singapura: Springer,
+  1999.}
+
+\bibitem[Zhao et al. 2009]{zhao2009stitched}
+\abntrefinfo{Zhao et al.}{ZHAO et al.}{2009}
+{ZHAO, N.; R{\"O}DEL, H.; HERZBERG, C.; GAO, S.; KRZYWINSKI, S. Stitched
+  glass/pp composite. part i: Tensile and impact properties.
+\emph{Composites Part A: Applied Science and Manufacturing}, Elsevier, v.~40,
+  n.~5, p. 635--643, 2009.}
+
+\end{thebibliography}

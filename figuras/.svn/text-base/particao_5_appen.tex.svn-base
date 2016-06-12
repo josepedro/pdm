@@ -1,0 +1,273 @@
+
+\definecolor{cb3b3b3}{RGB}{179,179,179}
+\definecolor{cffffff}{RGB}{255,255,255}
+
+
+\begin{tikzpicture}[y=0.80pt, x=0.8pt,yscale=-1, inner sep=0pt, outer sep=0pt]
+\begin{scope}[shift={(0,-308.26769)}]
+  \path[cm={{-1.0,0.0,0.0,-1.0,(300.31451,1224.4755)}},draw=black,fill=cb3b3b3,line
+    join=round,miter limit=4.00,line width=1.200pt] (110.0000,414.0945) --
+    (127.3205,444.0945) -- (92.6795,444.0945) -- cycle;
+  \path[cm={{-0.42393,-0.07475,0.07475,-0.42393,(271.57697,834.11147)}},draw=black,fill=black,line
+    join=round,miter limit=4.00,line width=0.400pt]
+    (175.0000,96.5945)arc(0.000:180.000:7.500)arc(-180.000:0.000:7.500) -- cycle;
+  \path[cm={{-1.0,0.0,0.0,1.0,(300.63502,394.28647)}},draw=black,fill=cb3b3b3,line
+    join=round,miter limit=4.00,line width=1.200pt] (110.0000,414.0945) --
+    (127.3205,444.0945) -- (92.6795,444.0945) -- cycle;
+  \path[cm={{0.32976,-0.2767,-0.2767,-0.32976,(179.80346,917.4754)}},draw=black,fill=black,line
+    join=round,miter limit=4.00,line width=0.400pt]
+    (175.0000,96.5945)arc(0.000:180.000:7.500)arc(-180.000:0.000:7.500) -- cycle;
+  \path[cm={{0.32976,-0.2767,-0.2767,-0.32976,(161.80346,888.4754)}},draw=black,fill=black,line
+    join=round,miter limit=4.00,line width=0.400pt]
+    (175.0000,96.5945)arc(0.000:180.000:7.500)arc(-180.000:0.000:7.500) -- cycle;
+  \path[draw=black,fill=cb3b3b3,line join=miter,line cap=butt,miter
+    limit=4.00,line width=1.200pt] (310.5344,571.0088) -- (311.5344,630.0088) --
+    (289.5344,602.0088) -- (310.5344,571.0088);
+  \path[draw=black,fill=cb3b3b3,line join=miter,line cap=butt,miter
+    limit=4.00,line width=1.200pt] (345.5344,571.0088) -- (346.5344,629.0088) --
+    (368.5344,601.0088) -- (345.5344,571.0088);
+  \path[cm={{-1.0,0.0,0.0,-1.0,(280.53439,985.10334)}},draw=black,fill=cb3b3b3,line
+    join=round,miter limit=4.00,line width=1.200pt] (110.0000,414.0945) --
+    (127.3205,444.0945) -- (92.6795,444.0945) -- cycle;
+  \path[cm={{-0.42393,-0.07475,0.07475,-0.42393,(251.79685,594.73933)}},draw=black,fill=black,line
+    join=round,miter limit=4.00,line width=0.400pt]
+    (175.0000,96.5945)arc(0.000:180.000:7.500)arc(-180.000:0.000:7.500) -- cycle;
+  \path[cm={{0.43047,0.0,0.0,-0.43047,(81.2026,582.58942)}},draw=black,fill=black,line
+    join=round,miter limit=4.00,line width=0.400pt]
+    (175.0000,96.5945)arc(0.000:180.000:7.500)arc(-180.000:0.000:7.500) -- cycle;
+  \path[cm={{-1.0,0.0,0.0,1.0,(280.8549,154.91433)}},draw=black,fill=cb3b3b3,line
+    join=round,miter limit=4.00,line width=1.200pt] (110.0000,414.0945) --
+    (127.3205,444.0945) -- (92.6795,444.0945) -- cycle;
+  \path[cm={{-1.0,0.0,0.0,1.0,(264.23881,183.61461)}},draw=black,fill=cb3b3b3,line
+    join=round,miter limit=4.00,line width=1.200pt] (110.0000,414.0945) --
+    (127.3205,444.0945) -- (92.6795,444.0945) -- cycle;
+  \path[cm={{0.32976,-0.2767,-0.2767,-0.32976,(125.40725,677.80354)}},draw=black,fill=black,line
+    join=round,miter limit=4.00,line width=0.400pt]
+    (175.0000,96.5945)arc(0.000:180.000:7.500)arc(-180.000:0.000:7.500) -- cycle;
+  \path[cm={{-1.0,0.0,0.0,1.0,(298.8549,183.91433)}},draw=black,fill=cb3b3b3,line
+    join=round,miter limit=4.00,line width=1.200pt] (110.0000,414.0945) --
+    (127.3205,444.0945) -- (92.6795,444.0945) -- cycle;
+  \path[cm={{-0.42393,0.07475,0.07475,0.42393,(235.50127,573.97854)}},draw=black,fill=black,line
+    join=round,miter limit=4.00,line width=0.400pt]
+    (175.0000,96.5945)arc(0.000:180.000:7.500)arc(-180.000:0.000:7.500) -- cycle;
+  \path[cm={{0.43047,0.0,0.0,0.43047,(64.90702,586.12845)}},draw=black,fill=black,line
+    join=round,miter limit=4.00,line width=0.400pt]
+    (175.0000,96.5945)arc(0.000:180.000:7.500)arc(-180.000:0.000:7.500) -- cycle;
+  \path[cm={{0.32976,-0.2767,-0.2767,-0.32976,(160.02334,678.10326)}},draw=black,fill=black,line
+    join=round,miter limit=4.00,line width=0.400pt]
+    (175.0000,96.5945)arc(0.000:180.000:7.500)arc(-180.000:0.000:7.500) -- cycle;
+  \path[cm={{-0.42393,0.07475,0.07475,0.42393,(270.11736,574.27826)}},draw=black,fill=black,line
+    join=round,miter limit=4.00,line width=0.400pt]
+    (175.0000,96.5945)arc(0.000:180.000:7.500)arc(-180.000:0.000:7.500) -- cycle;
+  \path[cm={{0.32976,-0.2767,-0.2767,-0.32976,(142.02334,649.10326)}},draw=black,fill=black,line
+    join=round,miter limit=4.00,line width=0.400pt]
+    (175.0000,96.5945)arc(0.000:180.000:7.500)arc(-180.000:0.000:7.500) -- cycle;
+  \path[draw=black,line join=miter,line cap=butt,miter limit=4.00,line
+    width=1.200pt] (136.5344,628.0088) .. controls (118.5344,568.0088) and
+    (153.5344,541.0088) .. (153.5344,541.0088);
+  \path[draw=black,line join=miter,line cap=butt,miter limit=4.00,line
+    width=1.200pt] (206.5344,627.0088) .. controls (224.5344,567.0088) and
+    (189.5344,540.0088) .. (189.5344,540.0088);
+  \path[cm={{-1.0,0.0,0.0,-1.0,(438.07959,1015.0353)}},draw=black,fill=cb3b3b3,line
+    join=round,miter limit=4.00,line width=1.200pt] (110.0000,414.0945) --
+    (127.3205,444.0945) -- (92.6795,444.0945) -- cycle;
+  \path[cm={{-0.42393,-0.07475,0.07475,-0.42393,(409.34205,624.67121)}},draw=black,fill=black,line
+    join=round,miter limit=4.00,line width=0.400pt]
+    (175.0000,96.5945)arc(0.000:180.000:7.500)arc(-180.000:0.000:7.500) -- cycle;
+  \path[cm={{0.43047,0.0,0.0,-0.43047,(238.7478,612.5213)}},draw=black,fill=black,line
+    join=round,miter limit=4.00,line width=0.400pt]
+    (175.0000,96.5945)arc(0.000:180.000:7.500)arc(-180.000:0.000:7.500) -- cycle;
+  \path[cm={{-1.0,0.0,0.0,1.0,(438.4001,184.84621)}},draw=black,fill=cb3b3b3,line
+    join=round,miter limit=4.00,line width=1.200pt] (110.0000,414.0945) --
+    (127.3205,444.0945) -- (92.6795,444.0945) -- cycle;
+  \path[cm={{0.32976,-0.2767,-0.2767,-0.32976,(282.95245,707.73542)}},draw=black,fill=black,line
+    join=round,miter limit=4.00,line width=0.400pt]
+    (175.0000,96.5945)arc(0.000:180.000:7.500)arc(-180.000:0.000:7.500) -- cycle;
+  \path[cm={{0.32976,-0.2767,-0.2767,-0.32976,(317.56854,708.03514)}},draw=black,fill=black,line
+    join=round,miter limit=4.00,line width=0.400pt]
+    (175.0000,96.5945)arc(0.000:180.000:7.500)arc(-180.000:0.000:7.500) -- cycle;
+  \path[cm={{0.32976,-0.2767,-0.2767,-0.32976,(299.56854,679.03514)}},draw=black,fill=black,line
+    join=round,miter limit=4.00,line width=0.400pt]
+    (175.0000,96.5945)arc(0.000:180.000:7.500)arc(-180.000:0.000:7.500) -- cycle;
+  \path[cm={{0.43047,0.0,0.0,-0.43047,(217.43112,643.81807)}},draw=black,fill=black,line
+    join=round,miter limit=4.00,line width=0.400pt]
+    (175.0000,96.5945)arc(0.000:180.000:7.500)arc(-180.000:0.000:7.500) -- cycle;
+  \path[cm={{0.43047,0.0,0.0,-0.43047,(296.43113,642.81807)}},draw=black,fill=black,line
+    join=round,miter limit=4.00,line width=0.400pt]
+    (175.0000,96.5945)arc(0.000:180.000:7.500)arc(-180.000:0.000:7.500) -- cycle;
+  \path[draw=black,line join=miter,line cap=butt,miter limit=4.00,line
+    width=1.200pt] (288.5344,602.0088) .. controls (288.5344,552.0088) and
+    (328.5344,547.0088) .. (328.5344,547.0088);
+  \path[draw=black,line join=miter,line cap=butt,miter limit=4.00,line
+    width=1.200pt] (368.5344,602.0088) .. controls (368.5344,557.0088) and
+    (328.5344,547.0088) .. (328.5344,547.0088);
+  \path[cm={{0.43047,0.0,0.0,-0.43047,(256.43113,589.81807)}},draw=black,fill=black,line
+    join=round,miter limit=4.00,line width=0.400pt]
+    (175.0000,96.5945)arc(0.000:180.000:7.500)arc(-180.000:0.000:7.500) -- cycle;
+  \path[cm={{-1.0,0.0,0.0,-1.0,(266.07959,1225.0352)}},draw=black,fill=cb3b3b3,line
+    join=round,miter limit=4.00,line width=1.200pt] (110.0000,414.0945) --
+    (127.3205,444.0945) -- (92.6795,444.0945) -- cycle;
+  \path[cm={{-0.42393,-0.07475,0.07475,-0.42393,(237.34205,834.67121)}},draw=black,fill=black,line
+    join=round,miter limit=4.00,line width=0.400pt]
+    (175.0000,96.5945)arc(0.000:180.000:7.500)arc(-180.000:0.000:7.500) -- cycle;
+  \path[cm={{0.43047,0.0,0.0,-0.43047,(66.7478,822.5213)}},draw=black,fill=black,line
+    join=round,miter limit=4.00,line width=0.400pt]
+    (175.0000,96.5945)arc(0.000:180.000:7.500)arc(-180.000:0.000:7.500) -- cycle;
+  \path[cm={{-1.0,0.0,0.0,1.0,(266.4001,394.84621)}},draw=black,fill=cb3b3b3,line
+    join=round,miter limit=4.00,line width=1.200pt] (110.0000,414.0945) --
+    (127.3205,444.0945) -- (92.6795,444.0945) -- cycle;
+  \path[cm={{0.32976,-0.2767,-0.2767,-0.32976,(110.95245,917.73542)}},draw=black,fill=black,line
+    join=round,miter limit=4.00,line width=0.400pt]
+    (175.0000,96.5945)arc(0.000:180.000:7.500)arc(-180.000:0.000:7.500) -- cycle;
+  \path[cm={{0.32976,-0.2767,-0.2767,-0.32976,(145.56854,918.03514)}},draw=black,fill=black,line
+    join=round,miter limit=4.00,line width=0.400pt]
+    (175.0000,96.5945)arc(0.000:180.000:7.500)arc(-180.000:0.000:7.500) -- cycle;
+  \path[cm={{0.32976,-0.2767,-0.2767,-0.32976,(127.56854,889.03514)}},draw=black,fill=black,line
+    join=round,miter limit=4.00,line width=0.400pt]
+    (175.0000,96.5945)arc(0.000:180.000:7.500)arc(-180.000:0.000:7.500) -- cycle;
+  \path[draw=black,line join=miter,line cap=butt,miter limit=4.00,line
+    width=1.200pt] (138.9940,781.3810) -- (138.9940,839.3810);
+  \path[draw=black,line join=miter,line cap=butt,miter limit=4.00,line
+    width=1.200pt] (207.9940,838.3810) -- (207.9940,780.3810);
+  \path[draw=black,fill=cb3b3b3,line join=miter,line cap=butt,miter
+    limit=4.00,line width=1.200pt] (302.3303,840.9120) -- (362.3303,840.9120) --
+    (332.3303,830.9120) -- cycle;
+  \path[draw=black,fill=cb3b3b3,line join=miter,line cap=butt,miter
+    limit=4.00,line width=1.200pt] (302.3303,780.9120) -- (362.3303,780.9120) --
+    (332.3303,790.9120) -- cycle;
+  \path[draw=black,fill=cb3b3b3,line join=miter,line cap=butt,miter
+    limit=4.00,line width=1.200pt] (302.3303,840.9120) -- (302.3303,780.9120) --
+    (292.3303,810.9120) -- cycle;
+  \path[draw=black,fill=cb3b3b3,line join=miter,line cap=butt,miter
+    limit=4.00,line width=1.200pt] (362.3303,840.9120) -- (362.3303,780.9120) --
+    (372.3303,810.9120) -- cycle;
+  \path[cm={{0.32976,-0.2767,-0.2767,-0.32976,(273.89881,918.58494)}},draw=black,fill=black,line
+    join=round,miter limit=4.00,line width=0.400pt]
+    (175.0000,96.5945)arc(0.000:180.000:7.500)arc(-180.000:0.000:7.500) -- cycle;
+  \path[cm={{0.32976,-0.2767,-0.2767,-0.32976,(273.89881,859.58494)}},draw=black,fill=black,line
+    join=round,miter limit=4.00,line width=0.400pt]
+    (175.0000,96.5945)arc(0.000:180.000:7.500)arc(-180.000:0.000:7.500) -- cycle;
+  \path[cm={{0.32976,-0.2767,-0.2767,-0.32976,(333.35039,859.187)}},draw=black,fill=black,line
+    join=round,miter limit=4.00,line width=0.400pt]
+    (175.0000,96.5945)arc(0.000:180.000:7.500)arc(-180.000:0.000:7.500) -- cycle;
+  \path[cm={{0.32976,-0.2767,-0.2767,-0.32976,(333.35039,918.187)}},draw=black,fill=black,line
+    join=round,miter limit=4.00,line width=0.400pt]
+    (175.0000,96.5945)arc(0.000:180.000:7.500)arc(-180.000:0.000:7.500) -- cycle;
+  \path[cm={{0.32976,-0.2767,-0.2767,-0.32976,(303.89881,908.58494)}},draw=black,fill=black,line
+    join=round,miter limit=4.00,line width=0.400pt]
+    (175.0000,96.5945)arc(0.000:180.000:7.500)arc(-180.000:0.000:7.500) -- cycle;
+  \path[cm={{0.32976,-0.2767,-0.2767,-0.32976,(344.35039,889.187)}},draw=black,fill=black,line
+    join=round,miter limit=4.00,line width=0.400pt]
+    (175.0000,96.5945)arc(0.000:180.000:7.500)arc(-180.000:0.000:7.500) -- cycle;
+  \path[cm={{0.32976,-0.2767,-0.2767,-0.32976,(303.89881,869.58494)}},draw=black,fill=black,line
+    join=round,miter limit=4.00,line width=0.400pt]
+    (175.0000,96.5945)arc(0.000:180.000:7.500)arc(-180.000:0.000:7.500) -- cycle;
+  \path[cm={{0.32976,-0.2767,-0.2767,-0.32976,(263.89881,888.58494)}},draw=black,fill=black,line
+    join=round,miter limit=4.00,line width=0.400pt]
+    (175.0000,96.5945)arc(0.000:180.000:7.500)arc(-180.000:0.000:7.500) -- cycle;
+  \path[draw=black,line join=miter,line cap=butt,miter limit=4.00,line
+    width=1.200pt] (332.3303,791.9120) -- (332.3303,829.9120);
+  \path[draw=black,line join=miter,line cap=butt,line width=0.800pt]
+    (292.3303,810.9120) .. controls (277.3303,750.9120) and (342.3303,753.4120) ..
+    (362.3303,765.9120) .. controls (382.3303,778.4120) and (372.3303,810.9120) ..
+    (372.3303,810.9120);
+  \path[fill=black] (105,677.36218) node[above right] (text4264) {(a) Kinematic
+    chain 1. $V=1$.};
+  \path[fill=black] (266.15048,676.30853) node[above right] (text4268) {(b)
+    Kinematic chain 2. $V=1$.};
+  \path[fill=black] (111.93233,887.46039) node[above right] (text4272) {(c)
+    Kinematic chain 3. $V=1$.};
+  \path[fill=black] (272.93234,887.46039) node[above right] (text4276) {(d)
+    Kinematic chain 4. $V=0$.};
+  \path[fill=black] (113.15048,533.30853) node[above right] (text4298) {M'=2};
+  \path[fill=black] (220,532.36218) node[above right] (text4298-0) {M'=2};
+  \path[cm={{-0.20171,0.24039,-0.24039,-0.20171,(227.67098,586.7242)}},draw=black,fill=cffffff,line
+    join=round,miter limit=4.00,line width=1.275pt]
+    (175.0000,96.5945)arc(0.000:180.000:7.500)arc(-180.000:0.000:7.500) -- cycle;
+  \path[draw=black,line join=miter,line cap=butt,miter limit=4.00,line
+    width=0.400pt] (168.1505,607.3085) .. controls (152.1505,612.3085) and
+    (159.1505,637.3085) .. (159.1505,637.3085);
+  \path[fill=black] (160.15048,646.30853) node[above right] (text4390) {M'=1};
+  \path[cm={{-0.20171,0.24039,-0.24039,-0.20171,(374.67098,582.7242)}},draw=black,fill=cffffff,line
+    join=round,miter limit=4.00,line width=1.275pt]
+    (175.0000,96.5945)arc(0.000:180.000:7.500)arc(-180.000:0.000:7.500) -- cycle;
+  \path[draw=black,line join=miter,line cap=butt,miter limit=4.00,line
+    width=0.400pt] (315.1505,603.3085) .. controls (299.1505,608.3085) and
+    (295.1505,633.3085) .. (295.1505,633.3085);
+  \path[cm={{0.20171,0.24039,0.24039,-0.20171,(280.62998,582.7242)}},draw=black,fill=cffffff,line
+    join=round,miter limit=4.00,line width=1.275pt]
+    (175.0000,96.5945)arc(0.000:180.000:7.500)arc(-180.000:0.000:7.500) -- cycle;
+  \path[draw=black,line join=miter,line cap=butt,miter limit=4.00,line
+    width=0.400pt] (340.1505,603.3085) .. controls (356.1505,608.3085) and
+    (360.1505,633.3085) .. (360.1505,633.3085);
+  \path[fill=black] (355.15048,538.30853) node[above right] (text4298-0-8) {M'=3};
+  \path[fill=black] (280.15048,645.30853) node[above right] (text4390-0) {M'=1};
+  \path[fill=black] (350.15048,645.30853) node[above right] (text4390-6) {M'=1};
+  \path[cm={{0.20171,-0.24039,0.24039,0.20171,(142.41183,828.04472)}},draw=black,fill=cffffff,line
+    join=round,miter limit=4.00,line width=1.275pt]
+    (175.0000,96.5945)arc(0.000:180.000:7.500)arc(-180.000:0.000:7.500) -- cycle;
+  \path[draw=black,line join=miter,line cap=butt,miter limit=4.00,line
+    width=0.400pt] (201.9323,807.4604) .. controls (217.9323,802.4604) and
+    (221.9323,767.4604) .. (221.9323,767.4604);
+  \path[cm={{-0.20171,-0.24039,-0.24039,0.20171,(200.45283,830.04472)}},draw=black,fill=cffffff,line
+    join=round,miter limit=4.00,line width=1.275pt]
+    (175.0000,96.5945)arc(0.000:180.000:7.500)arc(-180.000:0.000:7.500) -- cycle;
+  \path[draw=black,line join=miter,line cap=butt,miter limit=4.00,line
+    width=0.400pt] (140.9323,809.4604) .. controls (124.9323,804.4604) and
+    (121.9323,772.4604) .. (121.9323,772.4604);
+  \path[fill=black] (117,767.36218) node[above right] (text4390-6-0) {M'=1};
+  \path[fill=black] (211.93233,762.46039) node[above right] (text4390-6-9) {M'=1};
+  \path[fill=black] (181.93233,867.46039) node[above right] (text4298-0-8-6)
+    {M'=2};
+  \path[fill=black] (279.93231,867.46039) node[above right] (text4298-0-8-6-1)
+    {M'=2};
+  \path[fill=black] (369.93234,867.46039) node[above right] (text4298-0-8-6-4)
+    {M'=2};
+  \path[fill=black] (359.93234,747.46039) node[above right] (text4298-0-8-6-15)
+    {M'=2};
+  \path[cm={{-0.20171,0.24039,-0.24039,-0.20171,(369.45283,791.87606)}},draw=black,fill=cffffff,line
+    join=round,miter limit=4.00,line width=1.275pt]
+    (175.0000,96.5945)arc(0.000:180.000:7.500)arc(-180.000:0.000:7.500) -- cycle;
+  \path[draw=black,line join=miter,line cap=butt,miter limit=4.00,line
+    width=0.400pt] (309.9323,812.4604) .. controls (293.9323,817.4604) and
+    (289.9323,852.4604) .. (289.9323,852.4604);
+  \path[cm={{0.20171,0.24039,0.24039,-0.20171,(294.43754,793.48195)}},draw=black,fill=cffffff,line
+    join=round,miter limit=4.00,line width=1.275pt]
+    (175.0000,96.5945)arc(0.000:180.000:7.500)arc(-180.000:0.000:7.500) -- cycle;
+  \path[draw=black,line join=miter,line cap=butt,miter limit=4.00,line
+    width=0.400pt] (353.9580,814.0663) .. controls (369.9580,819.0663) and
+    (373.9580,854.0663) .. (373.9580,854.0663);
+  \path[cm={{0.20171,0.24039,0.24039,-0.20171,(113.41183,794.87606)}},draw=black,fill=cffffff,line
+    join=round,miter limit=4.00,line width=1.275pt]
+    (175.0000,96.5945)arc(0.000:180.000:7.500)arc(-180.000:0.000:7.500) -- cycle;
+  \path[draw=black,line join=miter,line cap=butt,miter limit=4.00,line
+    width=0.400pt] (172.9323,815.4604) .. controls (188.9323,820.4604) and
+    (192.9323,855.4604) .. (192.9323,855.4604);
+  \path[cm={{0.20171,-0.24039,0.24039,0.20171,(139.62998,600.89286)}},draw=black,fill=cffffff,line
+    join=round,miter limit=4.00,line width=1.275pt]
+    (175.0000,96.5945)arc(0.000:180.000:7.500)arc(-180.000:0.000:7.500) -- cycle;
+  \path[draw=black,line join=miter,line cap=butt,miter limit=4.00,line
+    width=0.400pt] (199.1505,580.3085) .. controls (215.1505,575.3085) and
+    (219.1505,540.3085) .. (219.1505,540.3085);
+  \path[cm={{-0.20171,-0.24039,-0.24039,0.20171,(203.35518,600.60277)}},draw=black,fill=cffffff,line
+    join=round,miter limit=4.00,line width=1.275pt]
+    (175.0000,96.5945)arc(0.000:180.000:7.500)arc(-180.000:0.000:7.500) -- cycle;
+  \path[draw=black,line join=miter,line cap=butt,miter limit=4.00,line
+    width=0.400pt] (143.8347,580.0184) .. controls (127.8347,575.0184) and
+    (123.8347,540.0184) .. (123.8347,540.0184);
+  \path[cm={{0.24039,-0.20171,-0.20171,-0.24039,(312.63809,827.66509)}},draw=black,fill=cffffff,line
+    join=round,miter limit=4.00,line width=1.275pt]
+    (175.0000,96.5945)arc(0.000:180.000:7.500)arc(-180.000:0.000:7.500) -- cycle;
+  \path[draw=black,line join=miter,line cap=butt,miter limit=4.00,line
+    width=0.400pt] (333.2224,768.1446) .. controls (338.2224,752.1446) and
+    (354.9323,747.4604) .. (354.9323,747.4604);
+  \path[cm={{0.24039,-0.20171,-0.20171,-0.24039,(309.56615,617.82903)}},draw=black,fill=cffffff,line
+    join=round,miter limit=4.00,line width=1.275pt]
+    (175.0000,96.5945)arc(0.000:180.000:7.500)arc(-180.000:0.000:7.500) -- cycle;
+  \path[draw=black,line join=miter,line cap=butt,miter limit=4.00,line
+    width=0.400pt] (330.1505,558.3085) .. controls (335.1505,542.3085) and
+    (351.8604,537.6243) .. (351.8604,537.6243);
+\end{scope}
+
+\end{tikzpicture}
+

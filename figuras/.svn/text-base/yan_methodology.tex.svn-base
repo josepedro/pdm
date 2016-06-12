@@ -1,0 +1,80 @@
+
+
+
+\begin{tikzpicture}[y=0.80pt, x=0.8pt,yscale=-1, inner sep=0pt, outer sep=0pt, scale=0.75]
+\begin{scope}[shift={(0,-308.26769)}]
+  \path[shift={(0,308.26769)},draw=black,line join=round,miter limit=4.00,line
+    width=1.200pt,rounded corners=0.0000cm] (170.0000,69.0945) rectangle
+    (300.0000,94.0945);
+  \path[draw=black,line join=round,miter limit=4.00,line width=1.200pt,rounded
+    corners=0.0000cm] (75.0000,412.3622) rectangle (195.0000,437.3622);
+  \path[draw=black,line join=round,miter limit=4.00,line width=1.200pt,rounded
+    corners=0.0000cm] (275.0000,412.3622) rectangle (470.0000,437.3622);
+  \path[draw=black,line join=round,miter limit=4.00,line width=1.200pt,rounded
+    corners=0.0000cm] (159.0317,447.2367) rectangle (309.0317,472.2367);
+  \path[fill=black] (180,397.36218) node[above right] (text3763) {Existing
+    design};
+  \path[fill=black] (85,432.36218) node[above right] (text3767) {Generalisation};
+  \path[fill=black] (285,432.36218) node[above right] (text3771) {Topological
+    characteristics};
+  \path[fill=black] (170,467.36218) node[above right] (text3778) {Generalised
+    chain};
+  \path[draw=black,line join=round,miter limit=4.00,line width=1.200pt,rounded
+    corners=0.0000cm] (60.0000,482.3622) rectangle (195.0000,507.3622);
+  \path[draw=black,line join=round,miter limit=4.00,line width=1.200pt,rounded
+    corners=0.0000cm] (95.0000,517.3622) rectangle (363.0000,542.3622);
+  \path[draw=black,line join=round,miter limit=4.00,line width=1.200pt,rounded
+    corners=0.0000cm] (75.0000,557.3622) rectangle (195.0000,582.3622);
+  \path[draw=black,line join=round,miter limit=4.00,line width=1.200pt,rounded
+    corners=0.0000cm] (260.0000,557.7194) rectangle (525.0000,582.3622);
+  \path[draw=black,line join=round,miter limit=4.00,line width=1.200pt,rounded
+    corners=0.0000cm] (94.0205,602.1968) rectangle (350.0205,627.1968);
+  \path[draw=black,line join=round,miter limit=4.00,line width=1.200pt,rounded
+    corners=0.0000cm] (45.0000,637.3622) rectangle (195.0000,662.3622);
+  \path[draw=black,line join=round,miter limit=4.00,line width=1.200pt,rounded
+    corners=0.0000cm] (165.0000,672.3622) rectangle (300.0000,697.3622);
+  \path[draw=black,line join=round,miter limit=4.00,line width=1.200pt,rounded
+    corners=0.0000cm] (155.0000,742.3622) rectangle (320.0000,767.3622);
+  \path[draw=black,line join=round,miter limit=4.00,line width=1.200pt,rounded
+    corners=0.0000cm] (275.0000,707.3622) rectangle (410.0000,732.3622);
+  \path[fill=black] (70,502.36218) node[above right] (text3803) {Number
+    synthesis};
+  \path[fill=black] (105,537.36218) node[above right] (text3807) {Atlas of
+    generalised kinematic chains};
+  \path[fill=black] (85,577.36218) node[above right] (text3811) {Specialisation};
+  \path[fill=black] (270,577.36218) node[above right] (text3815) {Design
+    requirements and constraints};
+  \path[fill=black] (105,622.36218) node[above right] (text3825) {Atlas of
+    feasible specialised chains};
+  \path[fill=black] (55,657.36218) node[above right] (text3829)
+    {Particularisation};
+  \path[fill=black] (175,692.36218) node[above right] (text3833) {Atlas of
+    designs};
+  \path[fill=black] (285,727.36218) node[above right] (text3837) {Existing
+    designs};
+  \path[fill=black] (165,762.36218) node[above right] (text3841) {Atlas of new
+    designs};
+  \path[shift={(0,308.26769)},draw=black,line join=miter,line cap=butt,line
+    width=0.800pt] (195.0000,119.0945) -- (275.0000,119.0945);
+  \path[shift={(0,308.26769)},draw=black,line join=miter,line cap=butt,line
+    width=0.800pt, ->] (235.0000,94.0945) -- (235.0000,139.0945);
+  \path[shift={(0,308.26769)},draw=black,line join=miter,line cap=butt,line
+    width=0.800pt, ->] (235.0000,164.0945) -- (235.0000,209.0945);
+  \path[shift={(0,308.26769)},draw=black,line join=miter,line cap=butt,line
+    width=0.800pt, ->] (235.0000,234.0945) -- (235.0000,294.0945);
+  \path[shift={(0,308.26769)},draw=black,line join=miter,line cap=butt,line
+    width=0.800pt, ->] (235.0000,319.0945) -- (235.0000,364.0945);
+  \path[shift={(0,308.26769)},draw=black,line join=miter,line cap=butt,line
+    width=0.800pt, ->] (235.0000,389.0945) -- (235.0000,434.0945);
+  \path[shift={(0,308.26769)},draw=black,line join=miter,line cap=butt,line
+    width=0.800pt] (275.0000,414.0945) -- (235.0000,414.0945);
+  \path[shift={(0,308.26769)},draw=black,line join=miter,line cap=butt,line
+    width=0.800pt] (195.0000,344.0945) -- (235.0000,344.0945);
+  \path[shift={(0,308.26769)},draw=black,line join=miter,line cap=butt,line
+    width=0.800pt] (195.0000,189.0945) -- (235.0000,189.0945);
+  \path[shift={(0,308.26769)},draw=black,line join=miter,line cap=butt,line
+    width=0.800pt] (195.0000,264.0945) -- (260.0000,264.0945);
+\end{scope}
+
+\end{tikzpicture}
+

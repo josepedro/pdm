@@ -1,0 +1,13 @@
+
+
+
+\begin{tikzpicture}[y=0.80pt, x=0.8pt,yscale=-1, inner sep=0pt, outer sep=0pt]
+\path[fill=black] (0,0) node[above right] (text2987) { };
+\node at(150,30){\pgftext{\includegraphics[height=2cm]{class400.png}}};
+\path[fill=black] (10,90) node[above right] (text2987) {(a) Type 401.};
+\path[fill=black] (130,90) node[above right] (text2991) {(b) Type 405.};
+\path[fill=black] (240,90) node[above right] (text2991) {(c) Type 407.};
+
+
+\end{tikzpicture}
+

@@ -1,0 +1,68 @@
+
+
+
+\begin{tikzpicture}[y=0.80pt, x=0.8pt,yscale=-1, inner sep=0pt, outer sep=0pt, scale=0.75]
+\begin{scope}[shift={(0,-308.26767)}]
+  \path[shift={(0,308.26767)},draw=black,line join=round,miter limit=4.00,line
+    width=1.200pt,rounded corners=0.0000cm] (140.0000,49.0945) rectangle
+    (320.0000,74.0945);
+  \path[draw=black,line join=round,miter limit=4.00,line width=1.200pt,rounded
+    corners=0.0000cm] (140.0000,402.3621) rectangle (320.0000,427.3621);
+  \path[draw=black,line join=round,miter limit=4.00,line width=1.200pt,rounded
+    corners=0.0000cm] (355.0000,402.3621) rectangle (505.0000,427.3621);
+  \path[draw=black,line join=round,miter limit=4.00,line width=1.200pt,rounded
+    corners=0.0000cm] (35.0000,447.3621) rectangle (218.0000,472.3621);
+  \path[draw=black,line join=round,miter limit=4.00,line width=1.200pt,rounded
+    corners=0.0000cm] (190.0000,537.3622) rectangle (340.0000,562.3621);
+  \path[draw=black,line join=round,miter limit=4.00,line width=1.200pt,rounded
+    corners=0.0000cm] (380.0000,492.3621) rectangle (470.0000,517.3621);
+  \path[draw=black,line join=round,miter limit=4.00,line width=1.200pt,rounded
+    corners=0.0000cm] (205.0000,582.3622) rectangle (330.0000,607.3621);
+  \path[draw=black,line join=round,miter limit=4.00,line width=1.200pt,rounded
+    corners=0.0000cm] (219.3324,627.9384) rectangle (314.3324,652.9384);
+  \path[shift={(0,308.26767)},fill=black] (148.9975,69.817657) node[above right]
+    (text3005) {Customer's requirements};
+  \path[fill=black] (149.50258,422.12848) node[above right] (text3009) {Functional
+    requirements};
+  \path[fill=black] (365.22092,422.12848) node[above right] (text3013) {Other
+    requirements};
+  \path[fill=black] (40,467.36215) node[above right] (text3017) {Structural
+    characteristics};
+  \path[draw=black,line join=round,miter limit=4.00,line width=1.200pt,rounded
+    corners=0.0000cm] (90.0000,492.3621) rectangle (175.0000,517.3621);
+  \path[fill=black] (99.398499,511.17294) node[above right] (text3026)
+    {Generator};
+  \path[shift={(0,308.26767)},fill=black] (390.71429,203.91591) node[above right]
+    (text3030) {Evaluator};
+  \path[fill=black] (199.83446,556.62976) node[above right] (text3034) {Feasible
+    mechanism};
+  \path[shift={(0,308.26767)},fill=black] (215.66757,293.06137) node[above right]
+    (text3038) {Product design};
+  \path[fill=black] (230,647.36218) node[above right] (text3042) {Production};
+  \path[shift={(0,308.26767)},draw=black,line join=miter,line cap=butt,line
+    width=0.800pt, ->] (230.0000,74.0945) -- (230.0000,94.0945);
+  \path[shift={(0,308.26767)},draw=black,line join=miter,line cap=butt,line
+    width=0.800pt, ->] (230.0000,84.0945) -- (435.0000,84.0945) -- (435.0000,94.0945);
+  \path[shift={(0,308.26767)},draw=black,line join=miter,line cap=butt,line
+    width=0.800pt, ->] (230.0000,119.0945) -- (230.0000,129.0945) --
+    (135.0000,129.0945) -- (135.0000,139.0945);
+  \path[shift={(0,308.26767)},draw=black,line join=miter,line cap=butt,line
+    width=0.800pt, ->] (135.0000,164.0945) -- (135.0000,184.0945);
+  \path[shift={(0,308.26767)},draw=black,line join=miter,line cap=butt,line
+    width=0.800pt, ->] (230.0000,129.0945) -- (410.0000,129.0945) --
+    (410.0000,184.0945);
+  \path[shift={(0,308.26767)},draw=black,line join=miter,line cap=butt,line
+    width=0.800pt, ->] (435.0000,119.0945) -- (435.0000,184.0945);
+  \path[shift={(0,308.26767)},draw=black,line join=miter,line cap=butt,line
+    width=0.800pt] (135.0000,209.0945) -- (135.0000,219.0945) --
+    (425.0000,219.0945) -- (425.0000,209.0945);
+  \path[shift={(0,308.26767)},draw=black,line join=miter,line cap=butt,line
+    width=0.800pt, ->] (265.0000,219.0945) -- (265.0000,229.0945);
+  \path[shift={(0,308.26767)},draw=black,line join=miter,line cap=butt,line
+    width=0.800pt, ->] (265.0000,254.0945) -- (265.0000,274.0945);
+  \path[shift={(0,308.26767)},draw=black,line join=miter,line cap=butt,line
+    width=0.800pt, ->] (265.0000,299.0945) -- (265.0000,319.0945);
+\end{scope}
+
+\end{tikzpicture}
+

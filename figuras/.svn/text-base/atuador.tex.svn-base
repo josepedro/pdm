@@ -1,0 +1,67 @@
+
+\definecolor{cffffff}{RGB}{255,255,255}
+\definecolor{cb3b3b3}{RGB}{179,179,179}
+
+
+\begin{tikzpicture}[y=0.80pt, x=0.8pt,yscale=-1, inner sep=0pt, outer sep=0pt, scale=0.8]
+\begin{scope}[shift={(0,-308.26769)}]
+  \path[shift={(0,308.26769)},draw=black,line join=miter,line cap=butt,line
+    width=0.800pt] (56.0000,119.0945) -- (56.0000,54.0945) -- (65.8725,54.0945) --
+    (66.0000,119.0945);
+  \path[draw=black,fill=cffffff,line join=miter,line cap=butt,miter
+    limit=4.00,line width=0.800pt] (52.0000,479.6932) -- (52.0000,413.3622) --
+    (69.8339,413.3150) -- (69.8339,479.9708);
+  \path[shift={(-49.83759,331.26769)},draw=black,fill=cffffff,miter
+    limit=4.00,line width=0.800pt] (119.6752,148.3150)arc(-0.034:180.034:8.837582
+    and 8.780)arc(-180.034:0.034:8.837582 and 8.780) -- cycle;
+  \path[cm={{0.5,0.0,0.0,0.5,(5.5812,405.31099)}},draw=black,fill=cffffff,miter
+    limit=4.00,line width=0.800pt] (119.6752,148.3150)arc(-0.034:180.034:8.837582
+    and 8.780)arc(-180.034:0.034:8.837582 and 8.780) -- cycle;
+  \path[shift={(-49.83759,218.26769)},draw=black,fill=cffffff,miter
+    limit=4.00,line width=0.800pt] (119.6752,148.3150)arc(-0.034:180.034:8.837582
+    and 8.780)arc(-180.034:0.034:8.837582 and 8.780) -- cycle;
+  \path[cm={{0.5,0.0,0.0,0.5,(5.5812,292.31099)}},draw=black,fill=cffffff,miter
+    limit=4.00,line width=0.800pt] (119.6752,148.3150)arc(-0.034:180.034:8.837582
+    and 8.780)arc(-180.034:0.034:8.837582 and 8.780) -- cycle;
+  \path[fill=black] (125,362.71994) node[above right] (text3922) {revolute};
+  \path[fill=black] (122.74376,417.36218) node[above right] (text3926)
+    {prismatic};
+  \path[fill=black] (122.74376,485.43304) node[above right] (text3930) {revolute};
+  \path[cm={{0.76,0.0,0.0,0.76,(151.25666,307.86801)}},draw=black,fill=black,miter
+    limit=4.00,line width=0.800pt] (119.6752,148.3150)arc(-0.034:180.034:8.837582
+    and 8.780)arc(-180.034:0.034:8.837582 and 8.780) -- cycle;
+  \path[fill=cb3b3b3] (224.0932,497.6407) -- (255.3851,478.5150) --
+    (265.8932,497.5150) -- cycle;
+  \path[cm={{0.76,0.0,0.0,0.76,(170.25666,364.86801)}},draw=black,fill=black,miter
+    limit=4.00,line width=0.800pt] (119.6752,148.3150)arc(-0.034:180.034:8.837582
+    and 8.780)arc(-180.034:0.034:8.837582 and 8.780) -- cycle;
+  \path[cm={{0.76,0.0,0.0,0.76,(173.17323,257.58629)}},draw=black,fill=black,miter
+    limit=4.00,line width=0.800pt] (119.6752,148.3150)arc(-0.034:180.034:8.837582
+    and 8.780)arc(-180.034:0.034:8.837582 and 8.780) -- cycle;
+  \path[draw=black,line join=miter,line cap=butt,miter limit=4.00,line
+    width=1.200pt] (255.3851,372.1150) -- (235.4932,419.4751) --
+    (255.3851,478.5150);
+  \path[dashed, draw=black,line join=miter,line cap=butt,miter limit=4.00,line
+    width=1.200pt] (258.2932,369.2759) -- (243.7244,353.1150);
+  \path[dashed, draw=black,line join=miter,line cap=butt,miter limit=4.00,line
+    width=1.200pt] (265.8537,497.5150) -- (255.3851,478.0063) --
+    (223.8754,497.5150);
+  \path[fill=black] (40,517.36218) node[above right] (text3985) {(a) Actuator.};
+  \path[fill=black] (180,517.36218) node[above right] (text3989) {(b) Kinematic
+    chain.};
+  \path[shift={(0,308.26769)},draw=black,line join=miter,line cap=butt,line
+    width=0.800pt, ->] (120.0000,53.0945) -- (75.0000,59.0945);
+  \path[shift={(0,308.26769)},draw=black,line join=miter,line cap=butt,line
+    width=0.800pt, ->] (115.0000,104.0945) -- (80.0000,104.0945);
+  \path[shift={(0,308.26769)},draw=black,line join=miter,line cap=butt,line
+    width=0.800pt, ->] (117.4249,174.0945) -- (75.0000,174.0945);
+  \path[shift={(0,308.26769)},draw=black,line join=miter,line cap=butt,line
+    width=0.800pt, ->] (195.0000,174.0945) -- (235.0000,169.0945);
+  \path[shift={(0,308.26769)},draw=black,line join=miter,line cap=butt,line
+    width=0.800pt, ->] (195.0000,104.0945) -- (219.6431,109.0945);
+  \path[shift={(0,308.26769)},draw=black,line join=miter,line cap=butt,line
+    width=0.800pt, ->] (195.0000,49.0945) -- (240.0000,59.0945);
+\end{scope}
+
+\end{tikzpicture}
+

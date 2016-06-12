@@ -1,0 +1,36 @@
+
+
+
+\begin{tikzpicture}[y=0.80pt, x=0.8pt,yscale=-1, inner sep=0pt, outer sep=0pt, scale=0.75]
+\path[fill=black] (140,215) node[above right] (text3088) { };
+\path[fill=black] (500,530) node[above right] (text3088) { };
+\node at(367,362){\pgftext{\includegraphics[height=190px]{8MG.png}}};
+  \path[draw=black,line join=miter,line cap=butt,line width=0.800pt]
+    (190.0000,302.3622) -- (180.0000,332.3622);
+  \path[draw=black,line join=miter,line cap=butt,line width=0.800pt]
+    (290.0000,382.3622) -- (275.0000,407.3622);
+  \path[draw=black,line join=miter,line cap=butt,line width=0.800pt]
+    (380.0000,432.3622) -- (360.0000,462.3622);
+  \path[draw=black,line join=miter,line cap=butt,line width=0.800pt]
+    (440.0000,502.3622) -- (410.0000,512.3622);
+  \path[draw=black,line join=miter,line cap=butt,line width=0.800pt]
+    (349.0000,392.3622) -- (330.0000,422.3622);
+  \path[draw=black,fill=black,line join=miter,line cap=butt,line width=0.800pt]
+    (190.0000,302.3622) -- (190.0000,306.3622) -- (187.0000,305.3622) -- cycle;
+  \path[draw=black,fill=black,line join=miter,line cap=butt,line width=0.800pt]
+    (290.0000,382.3622) -- (290.0000,386.3622) -- (287.0000,385.3622) -- cycle;
+  \path[draw=black,fill=black,line join=miter,line cap=butt,line width=0.800pt]
+    (349.0000,392.3622) -- (348.0000,397.3622) -- (345.0000,395.3622) -- cycle;
+  \path[draw=black,fill=black,line join=miter,line cap=butt,line width=0.800pt]
+    (379.0000,433.3622) -- (378.0000,438.3622) -- (375.0000,436.3622) -- cycle;
+  \path[draw=black,fill=black,line join=miter,line cap=butt,line width=0.800pt]
+    (440.0000,502.3622) -- (435.0000,502.3622) -- (437.0000,505.3622) --
+    (440.0000,502.3622);
+  \path[fill=black] (155,347.36218) node[above right] (text3068) {Link 1};
+  \path[fill=black] (360,517.36218) node[above right] (text3072) {Link 3};
+  \path[fill=black] (330,477.36218) node[above right] (text3076) {Link 5};
+  \path[fill=black] (245,422.36218) node[above right] (text3080) {Link 4};
+  \path[fill=black] (300,437.36218) node[above right] (text3084) {Link 2};
+
+\end{tikzpicture}
+

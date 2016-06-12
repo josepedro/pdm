@@ -1,0 +1,221 @@
+%----------------------------------------------------------------------
+% Observações gerais sobre esse modelo LaTeX:
+% Esse modelo foi alterado por Estevan Murai a partir do modelo disponível na BU que foi elaborado por Roberto Simoni e Carlos Rocha.
+% Esse modelo é para dissertação/tese em inglês e tem algumas diferenças do modelo ABNT, conforme exposto abaixo.
+% Diferenças do ABNT:
+% 1) Nas referências bibliográficas irá aparecer todos os autores, independente da quantidade.
+%
+% ABNT (acima de 3 autores):
+% FULANO1 et. al. TÍTULO, periódico, ano.
+%
+% ?Modelo deste documento (acima de 3 autores):
+% FULANO1; FULANO2; FULANO3; FULANO4. TÍTULO, periódico, ano.
+%
+% Caso deseje alterar, entre na pasta ufscThesis e no arquivo BUUFSCthesis.sty comente a linha 36 e descomente a linha 39
+%
+% 2) Montagem da lista de símbolos e abreviações diferenciada.
+%
+% ABNT: as listas de símbolos e de abreviações contém a página que essas siglas foram definidas ao longo do texto. As listas são ordenadas por página (na ordem que apareceram).
+
+% Modelo deste documento: não irá aparecer a página, possibilitando ordenar a lista com qualquer critério desejado. A ordenação é feita manualmente, vide exemplo neste documento. Essa alteração foi proposta pela minha banca porque siglas e abreviações aparecem em vários lugares ao longo do texto, sendo usual ter que recorrer às respectivas listas para se lembrar o que significam. Entretanto, é necessário "caçar" a sigla na lista já que elas não estão em ordem alfabética e sim ordenadas conforme foram definidas (ordenando por página).
+
+% Caso deseje alterar para o formato da BU entre no arquivo ufscThesis.cls e comente/descomente o código da linha 322 (lista de símbolos) e 346 (lista de abreviações).
+
+% 3) O modelo é para inglês, a principal diferença é que ao citar autores no texto em vez de aparecer "e" vai aparecer "and".
+% Por exemplo:
+% "Fulando and Ciclano (2001)"
+% ao invés de 
+% "Fulando e Ciclano (2001)"
+% *pode ser alterado para voltar ao português, mas recomendo fortemente fazer tudo em inglês.
+
+\documentclass{ufscThesis} % Definicao do documentclass ufscThesis
+
+%----------------------------------------------------------------------
+% Pacotes usados especificamente neste documento
+%\usepackage[pdftex]{graphicx}
+\usepackage{epstopdf}
+\usepackage{amsmath}
+\usepackage{pstricks}
+\usepackage{tikz}
+\usepackage{pgf,tikz}
+%\usepackage{epsfig}
+%\usepackage{colortbl}
+\usepackage{graphicx} % Possibilita o uso de figuras e gráficos
+\usepackage{color}    % Possibilita o uso de cores no documento
+\usepackage{float}	  % Permite a escolha do local no texto onde ficará tabelas e figuras
+\usepackage{amsfonts} % Permite usar símbolos matemáticos como Conjunto dos Reais, Inteiros, etc.
+%\usepackage[table]{xcolor} % Permite colorir uma célula em uma tabela
+\usepackage{xcolor,colortbl}
+\usepackage{animate}
+\usepackage{multirow} % Permite utilizar multirow para fazer tabelas mesclando células
+\usepackage{comment}  % Permite criar o ambiente de comentario, para nao ter que encher de percentuais
+\usetikzlibrary{patterns} % Permite utilizar preenchimento de paterns no tikz (hachuras)
+\graphicspath{{./figuras/}}
+
+
+%----------------------------------------------------------------------
+% Comandos criados pelo usuário
+\newcommand{\com}[1]{{\color{red}{#1}}} % Para destacar uma parte no texto (fazer um comentário em vermelho)
+\newcommand{\inputTikZ}[2]{%  
+     \scalebox{#1}{\input{./figuras/#2}}  
+} % Comando para inserir figuras em TikZ
+
+%\theoremstyle{definition}
+\newtheorem{example}{Example} % Definindo ambiente Exemplo
+\definecolor{Gray}{gray}{0.9} % Definindo uma cor para usar em tabelas, etc
+% Quando o latex separa a palavra de forma incorreta dá para definir aqui qual é a forma correta.
+\hyphenation{co-nhe-ci-men-to}
+\hyphenation{me-to-do-lo-gi-as}
+\hyphenation{ca-rac-te-ris-ti-cas}
+\hyphenation{iso-mor-phic}
+\hyphenation{non-iso-mor-phic}
+\hyphenation{me-ca-nis-mos}
+\hyphenation{me-ca-nis-mo}
+\hyphenation{an-a-lyse}
+
+
+
+% defining the new dimensions and parameters
+\newlength{\hatchspread}
+\newlength{\hatchthickness}
+\newlength{\hatchshift}
+\newcommand{\hatchcolor}{}
+% declaring the keys in tikz
+\tikzset{hatchspread/.code={\setlength{\hatchspread}{#1}},
+         hatchthickness/.code={\setlength{\hatchthickness}{#1}},
+         hatchshift/.code={\setlength{\hatchshift}{#1}},% must be >= 0
+         hatchcolor/.code={\renewcommand{\hatchcolor}{#1}}}
+% setting the default values
+\tikzset{hatchspread=3pt,
+         hatchthickness=0.4pt,
+         hatchshift=0pt,% must be >= 0
+         hatchcolor=black}
+% declaring the pattern
+\pgfdeclarepatternformonly[\hatchspread,\hatchthickness,\hatchshift,\hatchcolor]% variables
+   {custom north west lines}% name
+   {\pgfqpoint{\dimexpr-2\hatchthickness}{\dimexpr-2\hatchthickness}}% lower left corner
+   {\pgfqpoint{\dimexpr\hatchspread+2\hatchthickness}{\dimexpr\hatchspread+2\hatchthickness}}% upper right corner
+   {\pgfqpoint{\dimexpr\hatchspread}{\dimexpr\hatchspread}}% tile size
+   {% shape description
+    \pgfsetlinewidth{\hatchthickness}
+    \pgfpathmoveto{\pgfqpoint{0pt}{\dimexpr\hatchspread+\hatchshift}}
+    \pgfpathlineto{\pgfqpoint{\dimexpr\hatchspread+0.15pt+\hatchshift}{-0.15pt}}
+    \ifdim \hatchshift > 0pt
+      \pgfpathmoveto{\pgfqpoint{0pt}{\hatchshift}}
+      \pgfpathlineto{\pgfqpoint{\dimexpr0.15pt+\hatchshift}{-0.15pt}}
+    \fi
+    \pgfsetstrokecolor{\hatchcolor}
+%    \pgfsetdash{{1pt}{1pt}}{0pt}% dashing cannot work correctly in all situation this way
+    \pgfusepath{stroke}
+   }
+
+
+
+%----------------------------------------------------------------------
+% Identificadores do trabalho
+% Usados para preencher os elementos pré-textuais
+\instituicao[a]{Universidade Federal de Santa Catarina} % Opcional
+\departamento[a]{Departamento de Engenharia Mecânica}
+\curso[o]{Programa de Pós-Graduação em Engenharia Mecânica}
+\documento[a]{Dissertação} % Opcional (Tese é o padrão)
+\titulo{Modelo de dissertação e tese em LaTeX}
+% \subtitulo{Versão Básica} % Opcional
+\autor{Estevan Hideki Murai}
+\grau{Mestre em Engenharia Mecânica}
+\local{Florianópolis} % Opcional (Florianópolis é o padrão)
+\data{8}{Agosto}{2013}
+\orientador[Orientador]{Daniel Martins, Dr. Eng.}
+\coorientador[Coorientador]{Henrique Simas, Dr. Eng.}
+\coordenador[Coordenador]{Armando Albertazzi Gonçalves Júnior, Dr. Eng.}
+
+\numerodemembrosnabanca{5} % Isso decide se haverá uma folha adicional
+\orientadornabanca{nao} % Se faz parte da banca definir como sim
+\coorientadornabanca{nao} % Se faz parte da banca definir como sim
+% Em geral coloca-se o nome por extenso seguido do título.
+\bancaMembroA{Daniel Martins, Dr. Eng.} %Nome do presidente da banca
+\bancaMembroB{Aníbal Alexandre Campos Bonilla, Dr. Eng.}       % Nome do membro da Banca
+\bancaMembroC{Roberto Simoni, Dr. Eng.}      % Nome do membro da Banca
+\bancaMembroD{Rodrigo de Souza Vieira, Dr. Eng.}     % Nome do membro da Banca
+%\bancaMembroE{Prof. quinto membro}       % Nome do membro da Banca
+%\bancaMembroF{Prof. sexto membro}        % Nome do membro da Banca
+%\bancaMembroG{Prof. sétimo membro}       % Nome do membro da Banca
+
+
+\dedicatoria{Colocar em uma frase a quem o trabalho é dedicado.} % Opcional, geralmente feito em uma frase.
+
+\agradecimento{Colocar um agradecimento aqui. Família, amigos, professores, orientadores, técnicos laboratoriais/administrativos e instituição de fomento.} % Deve conter pelo menos o agradecimento à instituição de fomento
+
+\epigrafe{The good thing about science is that it's true whether or not you believe in it.}
+{Neil deGrasse Tyson}%Este campo é opcional
+
+
+\textoResumo {O resumo do trabalho deve conter uma descrição sucinta do trabalho (não mais que uma página). Deve iniciar com a motivação, uma breve descrição do problema sendo enfrentado e apresentar de forma resumida a metodologia do trabalho e os principais resultados obtidos e conclusões. Não deve ultrapassar 500 palavras.} % Não deve ultrapassar 500 palavras
+
+\palavrasChave {Palavra chave 1. Palavra chave 2. Palavra chave 3. Palavra chave 4. Palavra chave 5.} % Máximo 5 palavras chave
+ 
+\textAbstract {Versão em inglês do resumo. Não traduzir palavra por palavra.}
+
+\keywords {Keyword 1. Keyword 2. Keyword 3. Keyword 4. Keyword 5} % Máximo 5 palavras chave
+
+%----------------------------------------------------------------------
+% Início do documento                                
+\begin{document}
+%--------------------------------------------------------
+% Elementos pré-textuais
+\capa  
+\folhaderosto[comficha] % Se nao quiser imprimir a ficha, é só não usar o parâmetro
+\folhaaprovacao
+\paginadedicatoria
+\paginaagradecimento
+\paginaepigrafe
+\paginaresumo
+\paginaabstract
+%\pretextuais % Substitui todos os elementos pre-textuais acima
+\listadefiguras % as listas dependem da necessidade do usuário
+\listadetabelas 
+\listadeabreviaturas
+\listadesimbolos
+\sumario
+%-------------------------------------------------------
+% Definindo as abreviaturas na ordem desejada
+\abreviatura{1-SSD}{One-side stitching device} % Página 32, seção 1.2.1
+\abreviatura{2-SSD}{Two-side stitching device} % Página 32, seção 1.2.1
+\abreviatura{CAD}{Computer-aided design} % Página 53, seção 2.2.4.6
+\abreviatura{DOF}{Degrees of Freedom} % Página 41, seção 2.1
+\abreviatura{IFToMM}{International Federation for the Promotion of Mechanism and Machine Science} % Página 41, seção 2.1
+%--------------------------------------------------------
+%Definindo as variáveis na ordem desejada.
+% Caso haja unidades eu recomendo colocar. Ex.: \simbolo{$A_c$}{[$mm^2$] Área do círculo.}
+\simbolo{$C_{ij}$}{Connectivity between links \textit{i} and \textit{j}} % Página 44 seção 2.1
+\simbolo{$e$}{Number of elements of kinematic pair} % Página 57 seção 2.3.2
+\simbolo{$f_i$}{Degree of freedom of pair \textit{i}} % Página 41 seção 2.1
+\simbolo{$j$}{Number of pairs with one degree of freedom} % Página 57 seção 2.3.2
+\simbolo{$K_{ij}$}{Degree of control between links \textit{i} and \textit{j}} % Página 44 seção 2.1
+\simbolo{$M$}{Mobility of the kinematic chain} % Página 44 seção 2.1
+\simbolo{$M'$}{Mobility of a subchain in a kinematic chain} % Página 44 seção 2.1
+\simbolo{$n$}{Number of links} % Página 57 seção 2.3.2
+\simbolo{$R_{ij}$}{Redundancy between links \textit{i} and \textit{j}} % Página 44 seção 2.1
+\simbolo{$V$}{Variety of the kinematic chain} % Página 44 seção 2.1
+\simbolo{$\lambda$}{Order of the screw system} % Página 44 seção 2.1
+\simbolo{$\nu$}{Number of independent loops} % Página 57 seção 2.3.2
+%--------------------------------------------------------
+% Elementos textuais
+\input{1_introduction.tex} % Vai um capitulo de exemplo
+%\input{2_bibliographic_review.tex}
+%\input{3_sewing.tex}
+%\input{4_synthesis.tex}
+%\input{5_conclusions.tex}
+%--------------------------------------------------------
+% Elementos pós-textuais
+\bibliographystyle{ufscThesis/ufsc-alf}
+\bibliography{bibliografia}
+
+% Inserindo apêndices
+\apendice
+\input{a0_animations.tex}
+
+% Inserindo anexos
+%\anexo
+%\chapter{Anexo1.tex}
+
+\end{document}

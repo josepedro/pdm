@@ -1,0 +1,100 @@
+
+
+
+\begin{tikzpicture}[y=0.80pt, x=0.8pt,yscale=-1, inner sep=0pt, outer sep=0pt]
+\begin{scope}[shift={(0,-308.26769)}]
+  \path[draw=black,line join=round,miter limit=4.00,line width=1.200pt,rounded
+    corners=0.0000cm] (193.0000,327.3622) rectangle (333.0000,352.3622);
+  \path[draw=black,line join=round,miter limit=4.00,line width=1.200pt,rounded
+    corners=0.0000cm] (143.0000,373.2550) rectangle (388.0000,397.3622);
+  \path[draw=black,line join=round,miter limit=4.00,line width=1.200pt,rounded
+    corners=0.0000cm] (165.6429,417.3622) rectangle (366.0000,442.3622);
+  \path[draw=black,line join=round,miter limit=4.00,line width=1.200pt,rounded
+    corners=0.0000cm] (152.0000,477.3622) rectangle (227.0000,502.3622);
+  \path[draw=black,line join=round,miter limit=4.00,line width=1.200pt,rounded
+    corners=0.0000cm] (293.0000,477.3622) rectangle (363.0000,502.3622);
+  \path[draw=black,line join=round,miter limit=4.00,line width=1.200pt,rounded
+    corners=0.0000cm] (217.0000,537.3622) rectangle (310.0000,562.3622);
+  \path[draw=black,line join=round,miter limit=4.00,line width=1.200pt,rounded
+    corners=0.0000cm] (200.0000,582.3622) rectangle (330.0000,607.3622);
+  \path[draw=black,line join=round,miter limit=4.00,line width=1.200pt,rounded
+    corners=0.0000cm] (231.3571,627.3622) rectangle (301.0000,652.3622);
+  \path[draw=black,line join=round,miter limit=4.00,line width=1.200pt,rounded
+    corners=0.0000cm] (216.0000,672.3622) rectangle (314.0000,697.3622);
+  \path[draw=black,line join=round,miter limit=4.00,line width=1.200pt,rounded
+    corners=0.0000cm] (222.0000,717.3622) rectangle (307.0000,742.3622);
+  \path[fill=black] (205,347.36218) node[above right] (text3007) {State of the art
+    survey};
+  \path[fill=black] (155,392.36218) node[above right] (text3014) {Survey's design
+    and structural characteristics};
+  \path[fill=black] (175,437.36218) node[above right] (text3018) {Design and
+    structural requirements};
+  \path[fill=black] (162,497.36218) node[above right] (text3022) {Generator};
+  \path[fill=black] (303,497.36218) node[above right] (text3026) {Evaluator};
+  \path[fill=black] (225,557.36218) node[above right] (text3030) {Type synthesis};
+  \path[fill=black] (210,602.36218) node[above right] (text3034) {Dimensional
+    synthesis};
+  \path[fill=black] (241,647.36218) node[above right] (text3038) {Prototype};
+  \path[fill=black] (226,692.36218) node[above right] (text3042) {Documentation};
+  \path[fill=black] (232,737.36218) node[above right] (text3046) {Manufacture};
+  \path[shift={(0,308.26769)},draw=black,line join=miter,line cap=butt,line
+    width=0.800pt] (265.0000,44.0945) -- (265.0000,64.0945);
+  \path[shift={(0,308.26769)},draw=black,line join=miter,line cap=butt,line
+    width=0.800pt] (265.0000,89.0945) -- (265.0000,109.0945);
+  \path[shift={(0,308.26769)},draw=black,line join=miter,line cap=butt,line
+    width=0.800pt] (190.0000,134.0945) -- (190.0000,169.0945);
+  \path[shift={(0,308.26769)},draw=black,line join=miter,line cap=butt,line
+    width=0.800pt] (330.0000,134.0945) -- (330.0000,169.0945);
+  \path[shift={(0,308.26769)},draw=black,line join=miter,line cap=butt,line
+    width=0.800pt] (227.0000,184.0945) -- (293.0000,184.0945);
+  \path[shift={(0,308.26769)},draw=black,line join=miter,line cap=butt,line
+    width=0.800pt] (330.0000,194.0945) -- (330.0000,204.0945) --
+    (135.0000,204.0945) -- (135.0000,154.0945) -- (190.0000,154.0945);
+  \path[shift={(0,308.26769)},draw=black,line join=miter,line cap=butt,line
+    width=0.800pt] (265.0000,204.0945) -- (265.0000,229.0945);
+  \path[draw=black,line join=miter,line cap=butt,line width=0.800pt]
+    (265.0000,562.3622) -- (265.0000,582.3622);
+  \path[draw=black,line join=miter,line cap=butt,line width=0.800pt]
+    (265.0000,607.3622) -- (265.0000,627.3622);
+  \path[draw=black,line join=miter,line cap=butt,line width=0.800pt]
+    (265.0000,652.3622) -- (265.0000,672.3622);
+  \path[draw=black,line join=miter,line cap=butt,line width=0.800pt]
+    (265.0000,697.3622) -- (265.0000,717.3622);
+  \path[shift={(0,308.26769)},draw=black,line join=miter,line cap=butt,line
+    width=0.800pt] (265.0000,354.0945) -- (165.0000,354.0945) --
+    (165.0000,219.0945) -- (265.0000,219.0945);
+  \path[draw=black,fill=black,line join=miter,line cap=butt,line width=0.800pt]
+    (265.0000,372.3622) -- (267.0000,367.3622) -- (263.0000,367.3622) -- cycle;
+  \path[draw=black,fill=black,line join=miter,line cap=butt,line width=0.800pt]
+    (265.0000,416.3622) -- (267.0000,411.3622) -- (263.0000,411.3622) -- cycle;
+  \path[draw=black,fill=black,line join=miter,line cap=butt,line width=0.800pt]
+    (190.0000,476.3622) -- (192.0000,471.3622) -- (188.0000,471.3622) -- cycle;
+  \path[draw=black,fill=black,line join=miter,line cap=butt,line width=0.800pt]
+    (330.0000,476.3622) -- (332.0000,471.3622) -- (328.0000,471.3622) -- cycle;
+  \path[draw=black,fill=black,line join=miter,line cap=butt,line width=0.800pt]
+    (265.0000,536.3622) -- (267.0000,531.3622) -- (263.0000,531.3622) -- cycle;
+  \path[draw=black,fill=black,line join=miter,line cap=butt,line width=0.800pt]
+    (265.0000,581.3622) -- (267.0000,576.3622) -- (263.0000,576.3622) -- cycle;
+  \path[draw=black,fill=black,line join=miter,line cap=butt,line width=0.800pt]
+    (265.0000,626.3622) -- (267.0000,621.3622) -- (263.0000,621.3622) -- cycle;
+  \path[draw=black,fill=black,line join=miter,line cap=butt,line width=0.800pt]
+    (265.0000,671.3622) -- (267.0000,666.3622) -- (263.0000,666.3622) -- cycle;
+  \path[draw=black,fill=black,line join=miter,line cap=butt,line width=0.800pt]
+    (265.0000,716.3622) -- (267.0000,711.3622) -- (263.0000,711.3622) -- cycle;
+  \path[draw=black,fill=black,line join=miter,line cap=butt,line width=0.800pt]
+    (264.0000,527.3622) -- (259.0000,529.3622) -- (259.0000,525.3622) -- cycle;
+  \path[draw=black,fill=black,line join=miter,line cap=butt,line width=0.800pt]
+    (292.0000,492.3622) -- (287.0000,494.3622) -- (287.0000,490.3622) -- cycle;
+  \path[draw=black,fill=black,line join=miter,line cap=butt,line width=0.800pt]
+    (189.0000,462.3622) -- (184.0000,464.3622) -- (184.0000,460.3622) -- cycle;
+  \path[shift={(0,308.26769)},draw=black,dash pattern=on 1.60pt off 0.80pt,miter
+    limit=4.00,line width=0.800pt,rounded corners=0.0000cm] (120.0000,144.0945)
+    rectangle (385.0000,209.0945);
+  \path[fill=black] (395,482.36218) node[above right] (text3900)
+    {Number};
+  \path[fill=black] (395,498.36218) node[above right] (text3904)
+    {synthesis};
+\end{scope}
+
+\end{tikzpicture}
+

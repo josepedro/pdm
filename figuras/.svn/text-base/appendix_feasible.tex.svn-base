@@ -1,0 +1,413 @@
+
+\definecolor{cb3b3b3}{RGB}{179,179,179}
+
+
+\begin{tikzpicture}[y=0.80pt, x=0.8pt,yscale=-1, inner sep=0pt, outer sep=0pt]
+\begin{scope}[shift={(0,-308.26769)}]
+  \path[cm={{-1.0,0.0,0.0,1.0,(302.38391,198.70741)}},draw=black,fill=cb3b3b3,line
+    join=round,miter limit=4.00,line width=1.200pt] (110.0000,414.0945) --
+    (127.3205,444.0945) -- (92.6795,444.0945) -- cycle;
+  \path[cm={{-0.42393,0.07475,0.07475,0.42393,(273.64637,589.07142)}},draw=black,fill=black,line
+    join=round,miter limit=4.00,line width=0.400pt] (175.0000,96.5945) .. controls
+    (175.0000,100.7366) and (171.6421,104.0945) .. (167.5000,104.0945) .. controls
+    (163.3579,104.0945) and (160.0000,100.7366) .. (160.0000,96.5945) .. controls
+    (160.0000,92.4523) and (163.3579,89.0945) .. (167.5000,89.0945) .. controls
+    (171.6421,89.0945) and (175.0000,92.4523) .. (175.0000,96.5945) -- cycle;
+  \path[cm={{0.43047,0.0,0.0,0.43047,(103.05212,601.22133)}},draw=black,fill=black,line
+    join=round,miter limit=4.00,line width=0.400pt] (175.0000,96.5945) .. controls
+    (175.0000,100.7366) and (171.6421,104.0945) .. (167.5000,104.0945) .. controls
+    (163.3579,104.0945) and (160.0000,100.7366) .. (160.0000,96.5945) .. controls
+    (160.0000,92.4523) and (163.3579,89.0945) .. (167.5000,89.0945) .. controls
+    (171.6421,89.0945) and (175.0000,92.4523) .. (175.0000,96.5945) -- cycle;
+  \path[cm={{-1.0,0.0,0.0,-1.0,(302.70442,1028.8964)}},draw=black,fill=cb3b3b3,line
+    join=round,miter limit=4.00,line width=1.200pt] (110.0000,414.0945) --
+    (127.3205,444.0945) -- (92.6795,444.0945) -- cycle;
+  \path[cm={{-1.0,0.0,0.0,-1.0,(286.08833,1000.1961)}},draw=black,fill=cb3b3b3,line
+    join=round,miter limit=4.00,line width=1.200pt] (110.0000,414.0945) --
+    (127.3205,444.0945) -- (92.6795,444.0945) -- cycle;
+  \path[cm={{0.32976,0.2767,-0.2767,0.32976,(147.25677,506.00721)}},draw=black,fill=black,line
+    join=round,miter limit=4.00,line width=0.400pt] (175.0000,96.5945) .. controls
+    (175.0000,100.7366) and (171.6421,104.0945) .. (167.5000,104.0945) .. controls
+    (163.3579,104.0945) and (160.0000,100.7366) .. (160.0000,96.5945) .. controls
+    (160.0000,92.4523) and (163.3579,89.0945) .. (167.5000,89.0945) .. controls
+    (171.6421,89.0945) and (175.0000,92.4523) .. (175.0000,96.5945) -- cycle;
+  \path[cm={{-1.0,0.0,0.0,-1.0,(320.70442,999.8964)}},draw=black,fill=cb3b3b3,line
+    join=round,miter limit=4.00,line width=1.200pt] (110.0000,414.0945) --
+    (127.3205,444.0945) -- (92.6795,444.0945) -- cycle;
+  \path[cm={{-0.42393,-0.07475,0.07475,-0.42393,(257.35079,609.83221)}},draw=black,fill=black,line
+    join=round,miter limit=4.00,line width=0.400pt] (175.0000,96.5945) .. controls
+    (175.0000,100.7366) and (171.6421,104.0945) .. (167.5000,104.0945) .. controls
+    (163.3579,104.0945) and (160.0000,100.7366) .. (160.0000,96.5945) .. controls
+    (160.0000,92.4523) and (163.3579,89.0945) .. (167.5000,89.0945) .. controls
+    (171.6421,89.0945) and (175.0000,92.4523) .. (175.0000,96.5945) -- cycle;
+  \path[cm={{0.43047,0.0,0.0,-0.43047,(86.75654,597.6823)}},draw=black,fill=black,line
+    join=round,miter limit=4.00,line width=0.400pt] (175.0000,96.5945) .. controls
+    (175.0000,100.7366) and (171.6421,104.0945) .. (167.5000,104.0945) .. controls
+    (163.3579,104.0945) and (160.0000,100.7366) .. (160.0000,96.5945) .. controls
+    (160.0000,92.4523) and (163.3579,89.0945) .. (167.5000,89.0945) .. controls
+    (171.6421,89.0945) and (175.0000,92.4523) .. (175.0000,96.5945) -- cycle;
+  \path[cm={{0.32976,0.2767,-0.2767,0.32976,(181.87286,505.70749)}},draw=black,fill=black,line
+    join=round,miter limit=4.00,line width=0.400pt] (175.0000,96.5945) .. controls
+    (175.0000,100.7366) and (171.6421,104.0945) .. (167.5000,104.0945) .. controls
+    (163.3579,104.0945) and (160.0000,100.7366) .. (160.0000,96.5945) .. controls
+    (160.0000,92.4523) and (163.3579,89.0945) .. (167.5000,89.0945) .. controls
+    (171.6421,89.0945) and (175.0000,92.4523) .. (175.0000,96.5945) -- cycle;
+  \path[cm={{-0.42393,-0.07475,0.07475,-0.42393,(291.96688,609.53249)}},draw=black,fill=black,line
+    join=round,miter limit=4.00,line width=0.400pt] (175.0000,96.5945) .. controls
+    (175.0000,100.7366) and (171.6421,104.0945) .. (167.5000,104.0945) .. controls
+    (163.3579,104.0945) and (160.0000,100.7366) .. (160.0000,96.5945) .. controls
+    (160.0000,92.4523) and (163.3579,89.0945) .. (167.5000,89.0945) .. controls
+    (171.6421,89.0945) and (175.0000,92.4523) .. (175.0000,96.5945) -- cycle;
+  \path[cm={{0.32976,0.2767,-0.2767,0.32976,(163.87286,534.70749)}},draw=black,fill=black,line
+    join=round,miter limit=4.00,line width=0.400pt] (175.0000,96.5945) .. controls
+    (175.0000,100.7366) and (171.6421,104.0945) .. (167.5000,104.0945) .. controls
+    (163.3579,104.0945) and (160.0000,100.7366) .. (160.0000,96.5945) .. controls
+    (160.0000,92.4523) and (163.3579,89.0945) .. (167.5000,89.0945) .. controls
+    (171.6421,89.0945) and (175.0000,92.4523) .. (175.0000,96.5945) -- cycle;
+  \path[draw=black,line join=miter,line cap=butt,miter limit=4.00,line
+    width=1.200pt] (158.3839,555.8019) .. controls (140.3839,615.8019) and
+    (175.3839,642.8019) .. (175.3839,642.8019);
+  \path[draw=black,line join=miter,line cap=butt,miter limit=4.00,line
+    width=1.200pt] (228.3839,556.8019) .. controls (246.3839,616.8019) and
+    (211.3839,643.8019) .. (211.3839,643.8019);
+  \path[draw=black,fill=cb3b3b3,line join=miter,line cap=butt,miter
+    limit=4.00,line width=1.200pt] (302.8495,635.4158) -- (362.8495,635.4158) --
+    (332.8495,625.4158) -- cycle;
+  \path[draw=black,fill=cb3b3b3,line join=miter,line cap=butt,miter
+    limit=4.00,line width=1.200pt] (302.8495,575.4158) -- (362.8495,575.4158) --
+    (332.8495,585.4158) -- cycle;
+  \path[draw=black,fill=cb3b3b3,line join=miter,line cap=butt,miter
+    limit=4.00,line width=1.200pt] (302.8495,635.4158) -- (302.8495,575.4158) --
+    (292.8495,605.4158) -- cycle;
+  \path[draw=black,fill=cb3b3b3,line join=miter,line cap=butt,miter
+    limit=4.00,line width=1.200pt] (362.8495,635.4158) -- (362.8495,575.4158) --
+    (372.8495,605.4158) -- cycle;
+  \path[cm={{0.32976,-0.2767,-0.2767,-0.32976,(274.41806,713.08878)}},draw=black,fill=black,line
+    join=round,miter limit=4.00,line width=0.400pt] (175.0000,96.5945) .. controls
+    (175.0000,100.7366) and (171.6421,104.0945) .. (167.5000,104.0945) .. controls
+    (163.3579,104.0945) and (160.0000,100.7366) .. (160.0000,96.5945) .. controls
+    (160.0000,92.4523) and (163.3579,89.0945) .. (167.5000,89.0945) .. controls
+    (171.6421,89.0945) and (175.0000,92.4523) .. (175.0000,96.5945) -- cycle;
+  \path[cm={{0.32976,-0.2767,-0.2767,-0.32976,(274.41806,654.08878)}},draw=black,fill=black,line
+    join=round,miter limit=4.00,line width=0.400pt] (175.0000,96.5945) .. controls
+    (175.0000,100.7366) and (171.6421,104.0945) .. (167.5000,104.0945) .. controls
+    (163.3579,104.0945) and (160.0000,100.7366) .. (160.0000,96.5945) .. controls
+    (160.0000,92.4523) and (163.3579,89.0945) .. (167.5000,89.0945) .. controls
+    (171.6421,89.0945) and (175.0000,92.4523) .. (175.0000,96.5945) -- cycle;
+  \path[cm={{0.32976,-0.2767,-0.2767,-0.32976,(333.86964,653.69084)}},draw=black,fill=black,line
+    join=round,miter limit=4.00,line width=0.400pt] (175.0000,96.5945) .. controls
+    (175.0000,100.7366) and (171.6421,104.0945) .. (167.5000,104.0945) .. controls
+    (163.3579,104.0945) and (160.0000,100.7366) .. (160.0000,96.5945) .. controls
+    (160.0000,92.4523) and (163.3579,89.0945) .. (167.5000,89.0945) .. controls
+    (171.6421,89.0945) and (175.0000,92.4523) .. (175.0000,96.5945) -- cycle;
+  \path[cm={{0.32976,-0.2767,-0.2767,-0.32976,(333.86964,712.69084)}},draw=black,fill=black,line
+    join=round,miter limit=4.00,line width=0.400pt] (175.0000,96.5945) .. controls
+    (175.0000,100.7366) and (171.6421,104.0945) .. (167.5000,104.0945) .. controls
+    (163.3579,104.0945) and (160.0000,100.7366) .. (160.0000,96.5945) .. controls
+    (160.0000,92.4523) and (163.3579,89.0945) .. (167.5000,89.0945) .. controls
+    (171.6421,89.0945) and (175.0000,92.4523) .. (175.0000,96.5945) -- cycle;
+  \path[cm={{0.32976,-0.2767,-0.2767,-0.32976,(304.41806,703.08878)}},draw=black,fill=black,line
+    join=round,miter limit=4.00,line width=0.400pt] (175.0000,96.5945) .. controls
+    (175.0000,100.7366) and (171.6421,104.0945) .. (167.5000,104.0945) .. controls
+    (163.3579,104.0945) and (160.0000,100.7366) .. (160.0000,96.5945) .. controls
+    (160.0000,92.4523) and (163.3579,89.0945) .. (167.5000,89.0945) .. controls
+    (171.6421,89.0945) and (175.0000,92.4523) .. (175.0000,96.5945) -- cycle;
+  \path[cm={{0.32976,-0.2767,-0.2767,-0.32976,(344.86964,683.69084)}},draw=black,fill=black,line
+    join=round,miter limit=4.00,line width=0.400pt] (175.0000,96.5945) .. controls
+    (175.0000,100.7366) and (171.6421,104.0945) .. (167.5000,104.0945) .. controls
+    (163.3579,104.0945) and (160.0000,100.7366) .. (160.0000,96.5945) .. controls
+    (160.0000,92.4523) and (163.3579,89.0945) .. (167.5000,89.0945) .. controls
+    (171.6421,89.0945) and (175.0000,92.4523) .. (175.0000,96.5945) -- cycle;
+  \path[cm={{0.32976,-0.2767,-0.2767,-0.32976,(304.41806,664.08878)}},draw=black,fill=black,line
+    join=round,miter limit=4.00,line width=0.400pt] (175.0000,96.5945) .. controls
+    (175.0000,100.7366) and (171.6421,104.0945) .. (167.5000,104.0945) .. controls
+    (163.3579,104.0945) and (160.0000,100.7366) .. (160.0000,96.5945) .. controls
+    (160.0000,92.4523) and (163.3579,89.0945) .. (167.5000,89.0945) .. controls
+    (171.6421,89.0945) and (175.0000,92.4523) .. (175.0000,96.5945) -- cycle;
+  \path[cm={{0.32976,-0.2767,-0.2767,-0.32976,(264.41806,683.08878)}},draw=black,fill=black,line
+    join=round,miter limit=4.00,line width=0.400pt] (175.0000,96.5945) .. controls
+    (175.0000,100.7366) and (171.6421,104.0945) .. (167.5000,104.0945) .. controls
+    (163.3579,104.0945) and (160.0000,100.7366) .. (160.0000,96.5945) .. controls
+    (160.0000,92.4523) and (163.3579,89.0945) .. (167.5000,89.0945) .. controls
+    (171.6421,89.0945) and (175.0000,92.4523) .. (175.0000,96.5945) -- cycle;
+  \path[draw=black,line join=miter,line cap=butt,miter limit=4.00,line
+    width=1.200pt] (332.8495,586.4158) -- (332.8495,624.4158);
+  \path[draw=black,line join=miter,line cap=butt,line width=0.800pt]
+    (292.8495,605.4158) .. controls (277.8495,545.4158) and (342.8495,547.9158) ..
+    (362.8495,560.4158) .. controls (382.8495,572.9158) and (372.8495,605.4158) ..
+    (372.8495,605.4158);
+  \path[draw=black,line join=miter,line cap=butt,line width=0.800pt]
+    (175.0000,642.3622) -- (180.0000,648.3622);
+  \path[draw=black,line join=miter,line cap=butt,line width=0.800pt]
+    (180.0000,642.3622) -- (185.0000,648.3622);
+  \path[draw=black,line join=miter,line cap=butt,line width=0.800pt]
+    (185.0000,642.3622) -- (190.0000,648.3622);
+  \path[draw=black,line join=miter,line cap=butt,line width=0.800pt]
+    (190.0000,642.3622) -- (195.0000,648.3622);
+  \path[draw=black,line join=miter,line cap=butt,line width=0.800pt]
+    (195.0000,642.3622) -- (200.0000,648.3622);
+  \path[draw=black,line join=miter,line cap=butt,line width=0.800pt]
+    (200.0000,642.3622) -- (205.0000,648.3622);
+  \path[draw=black,line join=miter,line cap=butt,line width=0.800pt]
+    (205.0000,642.3622) -- (210.0000,648.3622);
+  \path[draw=black,line join=miter,line cap=butt,line width=0.800pt]
+    (302.4516,634.9642) -- (307.4516,640.9642);
+  \path[draw=black,line join=miter,line cap=butt,line width=0.800pt]
+    (307.4516,634.9642) -- (312.4516,640.9642);
+  \path[draw=black,line join=miter,line cap=butt,line width=0.800pt]
+    (312.4516,634.9642) -- (317.4516,640.9642);
+  \path[draw=black,line join=miter,line cap=butt,line width=0.800pt]
+    (317.4516,634.9642) -- (322.4516,640.9642);
+  \path[draw=black,line join=miter,line cap=butt,line width=0.800pt]
+    (322.4516,634.9642) -- (327.4516,640.9642);
+  \path[draw=black,line join=miter,line cap=butt,line width=0.800pt]
+    (327.4516,634.9642) -- (332.4516,640.9642);
+  \path[draw=black,line join=miter,line cap=butt,line width=0.800pt]
+    (332.4516,634.9642) -- (337.4516,640.9642);
+  \path[draw=black,line join=miter,line cap=butt,line width=0.800pt]
+    (337.4516,634.9642) -- (342.4516,640.9642);
+  \path[draw=black,line join=miter,line cap=butt,line width=0.800pt]
+    (342.4516,634.9642) -- (347.4516,640.9642);
+  \path[draw=black,line join=miter,line cap=butt,line width=0.800pt]
+    (347.4516,634.9642) -- (352.4516,640.9642);
+  \path[draw=black,line join=miter,line cap=butt,line width=0.800pt]
+    (352.4516,634.9642) -- (357.4516,640.9642);
+  \path[draw=black,line join=miter,line cap=butt,line width=0.800pt]
+    (357.4516,634.9642) -- (362.4516,640.9642);
+  \path[draw=black,fill=cb3b3b3,line join=round,miter limit=4.00,line
+    width=1.200pt,rounded corners=0.0000cm] (245.0000,466.3622) rectangle
+    (275.0000,496.3622);
+  \path[cm={{0.34202,-0.93969,-0.93969,-0.34202,(645.24227,674.5466)}},draw=black,fill=cb3b3b3,line
+    join=round,miter limit=4.00,line width=1.200pt] (110.0000,414.0945) --
+    (127.3205,444.0945) -- (92.6795,444.0945) -- cycle;
+  \path[cm={{0.14723,0.40451,0.40451,-0.14723,(228.33978,375.06503)}},draw=black,fill=black,line
+    join=round,miter limit=4.00,line width=0.400pt] (175.0000,96.5945) .. controls
+    (175.0000,100.7366) and (171.6421,104.0945) .. (167.5000,104.0945) .. controls
+    (163.3579,104.0945) and (160.0000,100.7366) .. (160.0000,96.5945) .. controls
+    (160.0000,92.4523) and (163.3579,89.0945) .. (167.5000,89.0945) .. controls
+    (171.6421,89.0945) and (175.0000,92.4523) .. (175.0000,96.5945) -- cycle;
+  \path[cm={{-0.43047,0.0,0.0,0.43047,(347.10326,455.00992)}},draw=black,fill=black,line
+    join=round,miter limit=4.00,line width=0.400pt] (175.0000,96.5945) .. controls
+    (175.0000,100.7366) and (171.6421,104.0945) .. (167.5000,104.0945) .. controls
+    (163.3579,104.0945) and (160.0000,100.7366) .. (160.0000,96.5945) .. controls
+    (160.0000,92.4523) and (163.3579,89.0945) .. (167.5000,89.0945) .. controls
+    (171.6421,89.0945) and (175.0000,92.4523) .. (175.0000,96.5945) -- cycle;
+  \path[cm={{-0.43047,0.0,0.0,0.43047,(317.10326,454.00992)}},draw=black,fill=black,line
+    join=round,miter limit=4.00,line width=0.400pt] (175.0000,96.5945) .. controls
+    (175.0000,100.7366) and (171.6421,104.0945) .. (167.5000,104.0945) .. controls
+    (163.3579,104.0945) and (160.0000,100.7366) .. (160.0000,96.5945) .. controls
+    (160.0000,92.4523) and (163.3579,89.0945) .. (167.5000,89.0945) .. controls
+    (171.6421,89.0945) and (175.0000,92.4523) .. (175.0000,96.5945) -- cycle;
+  \path[cm={{-0.99619,0.08716,-0.08716,-0.99619,(390.53036,870.5086)}},draw=black,fill=cb3b3b3,line
+    join=round,miter limit=4.00,line width=1.200pt] (110.0000,414.0945) --
+    (127.3205,444.0945) -- (92.6795,444.0945) -- cycle;
+  \path[cm={{-0.35262,-0.24691,-0.24691,0.35262,(327.85128,474.08303)}},draw=black,fill=black,line
+    join=round,miter limit=4.00,line width=0.400pt] (175.0000,96.5945) .. controls
+    (175.0000,100.7366) and (171.6421,104.0945) .. (167.5000,104.0945) .. controls
+    (163.3579,104.0945) and (160.0000,100.7366) .. (160.0000,96.5945) .. controls
+    (160.0000,92.4523) and (163.3579,89.0945) .. (167.5000,89.0945) .. controls
+    (171.6421,89.0945) and (175.0000,92.4523) .. (175.0000,96.5945) -- cycle;
+  \path[cm={{0.42883,-0.03752,-0.03752,-0.42883,(156.87572,486.89932)}},draw=black,fill=black,line
+    join=round,miter limit=4.00,line width=0.400pt] (175.0000,96.5945) .. controls
+    (175.0000,100.7366) and (171.6421,104.0945) .. (167.5000,104.0945) .. controls
+    (163.3579,104.0945) and (160.0000,100.7366) .. (160.0000,96.5945) .. controls
+    (160.0000,92.4523) and (163.3579,89.0945) .. (167.5000,89.0945) .. controls
+    (171.6421,89.0945) and (175.0000,92.4523) .. (175.0000,96.5945) -- cycle;
+  \path[cm={{0.07475,-0.42393,-0.42393,-0.07475,(288.249,514.02982)}},draw=black,fill=black,line
+    join=round,miter limit=4.00,line width=0.400pt] (175.0000,96.5945) .. controls
+    (175.0000,100.7366) and (171.6421,104.0945) .. (167.5000,104.0945) .. controls
+    (163.3579,104.0945) and (160.0000,100.7366) .. (160.0000,96.5945) .. controls
+    (160.0000,92.4523) and (163.3579,89.0945) .. (167.5000,89.0945) .. controls
+    (171.6421,89.0945) and (175.0000,92.4523) .. (175.0000,96.5945) -- cycle;
+  \path[cm={{-0.14723,0.40451,-0.40451,-0.14723,(335.17848,349.56817)}},draw=black,fill=black,line
+    join=round,miter limit=4.00,line width=0.400pt] (175.0000,96.5945) .. controls
+    (175.0000,100.7366) and (171.6421,104.0945) .. (167.5000,104.0945) .. controls
+    (163.3579,104.0945) and (160.0000,100.7366) .. (160.0000,96.5945) .. controls
+    (160.0000,92.4523) and (163.3579,89.0945) .. (167.5000,89.0945) .. controls
+    (171.6421,89.0945) and (175.0000,92.4523) .. (175.0000,96.5945) -- cycle;
+  \path[cm={{-0.43047,0.0,0.0,0.43047,(347.10326,425.00992)}},draw=black,fill=black,line
+    join=round,miter limit=4.00,line width=0.400pt] (175.0000,96.5945) .. controls
+    (175.0000,100.7366) and (171.6421,104.0945) .. (167.5000,104.0945) .. controls
+    (163.3579,104.0945) and (160.0000,100.7366) .. (160.0000,96.5945) .. controls
+    (160.0000,92.4523) and (163.3579,89.0945) .. (167.5000,89.0945) .. controls
+    (171.6421,89.0945) and (175.0000,92.4523) .. (175.0000,96.5945) -- cycle;
+  \path[draw=black,line join=miter,line cap=butt,miter limit=4.00,line
+    width=1.200pt] (292.0000,429.3622) -- (275.0000,466.3622);
+  \path[draw=black,line join=miter,line cap=butt,miter limit=4.00,line
+    width=1.200pt] (225.0000,438.3622) .. controls (220.0000,478.3622) and
+    (245.0000,493.3622) .. (245.0000,493.3622);
+  \path[draw=black,line join=miter,line cap=butt,miter limit=4.00,line
+    width=1.200pt] (275.0000,496.3622) .. controls (355.0000,431.3622) and
+    (270.0000,401.3622) .. (270.0000,401.3622);
+  \path[draw=black,line join=miter,line cap=butt,line width=0.800pt]
+    (245.0000,496.3622) -- (250.0000,502.3622);
+  \path[draw=black,line join=miter,line cap=butt,line width=0.800pt]
+    (250.0000,496.3622) -- (255.0000,502.3622);
+  \path[draw=black,line join=miter,line cap=butt,line width=0.800pt]
+    (255.0000,496.3622) -- (260.0000,502.3622);
+  \path[draw=black,line join=miter,line cap=butt,line width=0.800pt]
+    (260.0000,496.3622) -- (265.0000,502.3622);
+  \path[draw=black,line join=miter,line cap=butt,line width=0.800pt]
+    (265.0000,496.3622) -- (270.0000,502.3622);
+  \path[draw=black,line join=miter,line cap=butt,line width=0.800pt]
+    (270.0000,496.3622) -- (275.0000,502.3622);
+  \path[cm={{-0.34202,-0.93969,0.93969,-0.34202,(0.0,0.0)}},draw=black,fill=cb3b3b3,line
+    join=round,miter limit=4.00,line width=1.200pt,rounded corners=0.0000cm]
+    (-573.8467,224.9999) rectangle (-543.8467,254.9999);
+  \path[cm={{-1.0,-0.0,-0.0,1.0,(466.43629,14.97697)}},draw=black,fill=cb3b3b3,line
+    join=round,miter limit=4.00,line width=1.200pt] (110.0000,414.0945) --
+    (127.3205,444.0945) -- (92.6795,444.0945) -- cycle;
+  \path[cm={{0.32976,-0.2767,-0.2767,-0.32976,(327.60472,509.16584)}},draw=black,fill=black,line
+    join=round,miter limit=4.00,line width=0.400pt] (175.0000,96.5945) .. controls
+    (175.0000,100.7366) and (171.6421,104.0945) .. (167.5000,104.0945) .. controls
+    (163.3579,104.0945) and (160.0000,100.7366) .. (160.0000,96.5945) .. controls
+    (160.0000,92.4523) and (163.3579,89.0945) .. (167.5000,89.0945) .. controls
+    (171.6421,89.0945) and (175.0000,92.4523) .. (175.0000,96.5945) -- cycle;
+  \path[cm={{0.14723,0.40451,0.40451,-0.14723,(362.10883,370.22193)}},draw=black,fill=black,line
+    join=round,miter limit=4.00,line width=0.400pt] (175.0000,96.5945) .. controls
+    (175.0000,100.7366) and (171.6421,104.0945) .. (167.5000,104.0945) .. controls
+    (163.3579,104.0945) and (160.0000,100.7366) .. (160.0000,96.5945) .. controls
+    (160.0000,92.4523) and (163.3579,89.0945) .. (167.5000,89.0945) .. controls
+    (171.6421,89.0945) and (175.0000,92.4523) .. (175.0000,96.5945) -- cycle;
+  \path[cm={{0.14723,0.40451,0.40451,-0.14723,(371.42979,398.75475)}},draw=black,fill=black,line
+    join=round,miter limit=4.00,line width=0.400pt] (175.0000,96.5945) .. controls
+    (175.0000,100.7366) and (171.6421,104.0945) .. (167.5000,104.0945) .. controls
+    (163.3579,104.0945) and (160.0000,100.7366) .. (160.0000,96.5945) .. controls
+    (160.0000,92.4523) and (163.3579,89.0945) .. (167.5000,89.0945) .. controls
+    (171.6421,89.0945) and (175.0000,92.4523) .. (175.0000,96.5945) -- cycle;
+  \path[cm={{0.42262,0.90631,-0.90631,0.42262,(737.69693,187.30489)}},draw=black,fill=cb3b3b3,line
+    join=round,miter limit=4.00,line width=1.200pt] (110.0000,414.0945) --
+    (127.3205,444.0945) -- (92.6795,444.0945) -- cycle;
+  \path[cm={{-0.11141,0.4158,0.4158,0.11141,(386.61627,381.78948)}},draw=black,fill=black,line
+    join=round,miter limit=4.00,line width=0.400pt] (175.0000,96.5945) .. controls
+    (175.0000,100.7366) and (171.6421,104.0945) .. (167.5000,104.0945) .. controls
+    (163.3579,104.0945) and (160.0000,100.7366) .. (160.0000,96.5945) .. controls
+    (160.0000,92.4523) and (163.3579,89.0945) .. (167.5000,89.0945) .. controls
+    (171.6421,89.0945) and (175.0000,92.4523) .. (175.0000,96.5945) -- cycle;
+  \path[cm={{-0.18192,-0.39014,-0.39014,0.18192,(457.13673,538.07053)}},draw=black,fill=black,line
+    join=round,miter limit=4.00,line width=0.400pt] (175.0000,96.5945) .. controls
+    (175.0000,100.7366) and (171.6421,104.0945) .. (167.5000,104.0945) .. controls
+    (163.3579,104.0945) and (160.0000,100.7366) .. (160.0000,96.5945) .. controls
+    (160.0000,92.4523) and (163.3579,89.0945) .. (167.5000,89.0945) .. controls
+    (171.6421,89.0945) and (175.0000,92.4523) .. (175.0000,96.5945) -- cycle;
+  \path[cm={{-0.42393,0.07475,0.07475,0.42393,(437.69876,405.34085)}},draw=black,fill=black,line
+    join=round,miter limit=4.00,line width=0.400pt] (175.0000,96.5945) .. controls
+    (175.0000,100.7366) and (171.6421,104.0945) .. (167.5000,104.0945) .. controls
+    (163.3579,104.0945) and (160.0000,100.7366) .. (160.0000,96.5945) .. controls
+    (160.0000,92.4523) and (163.3579,89.0945) .. (167.5000,89.0945) .. controls
+    (171.6421,89.0945) and (175.0000,92.4523) .. (175.0000,96.5945) -- cycle;
+  \path[cm={{0.43047,0.0,0.0,0.43047,(267.10452,417.49078)}},draw=black,fill=black,line
+    join=round,miter limit=4.00,line width=0.400pt] (175.0000,96.5945) .. controls
+    (175.0000,100.7366) and (171.6421,104.0945) .. (167.5000,104.0945) .. controls
+    (163.3579,104.0945) and (160.0000,100.7366) .. (160.0000,96.5945) .. controls
+    (160.0000,92.4523) and (163.3579,89.0945) .. (167.5000,89.0945) .. controls
+    (171.6421,89.0945) and (175.0000,92.4523) .. (175.0000,96.5945) -- cycle;
+  \path[cm={{0.14723,0.40451,0.40451,-0.14723,(333.91806,380.48253)}},draw=black,fill=black,line
+    join=round,miter limit=4.00,line width=0.400pt] (175.0000,96.5945) .. controls
+    (175.0000,100.7366) and (171.6421,104.0945) .. (167.5000,104.0945) .. controls
+    (163.3579,104.0945) and (160.0000,100.7366) .. (160.0000,96.5945) .. controls
+    (160.0000,92.4523) and (163.3579,89.0945) .. (167.5000,89.0945) .. controls
+    (171.6421,89.0945) and (175.0000,92.4523) .. (175.0000,96.5945) -- cycle;
+  \path[draw=black,line join=miter,line cap=butt,miter limit=4.00,line
+    width=1.200pt] (356.8543,430.7741) -- (397.4372,434.0941);
+  \path[draw=black,line join=miter,line cap=butt,miter limit=4.00,line
+    width=1.200pt] (388.2269,490.6553) .. controls (427.5247,481.6730) and
+    (433.0696,453.0503) .. (433.0696,453.0503);
+  \path[draw=black,line join=miter,line cap=butt,miter limit=4.00,line
+    width=1.200pt] (425.6280,423.8335) .. controls (337.1864,370.8894) and
+    (338.0673,461.0239) .. (338.0673,461.0239);
+  \path[draw=black,line join=miter,line cap=butt,line width=0.800pt]
+    (341.1808,459.1329) -- (346.1808,465.1329);
+  \path[draw=black,line join=miter,line cap=butt,line width=0.800pt]
+    (346.1808,459.1329) -- (351.1808,465.1329);
+  \path[draw=black,line join=miter,line cap=butt,line width=0.800pt]
+    (351.1808,459.1329) -- (356.1808,465.1329);
+  \path[draw=black,line join=miter,line cap=butt,line width=0.800pt]
+    (356.1808,459.1329) -- (361.1808,465.1329);
+  \path[draw=black,line join=miter,line cap=butt,line width=0.800pt]
+    (361.1808,459.1329) -- (366.1808,465.1329);
+  \path[draw=black,line join=miter,line cap=butt,line width=0.800pt]
+    (366.1808,459.1329) -- (371.1808,465.1329);
+  \path[draw=black,fill=cb3b3b3,line join=round,miter limit=4.00,line
+    width=1.200pt,rounded corners=0.0000cm] (135.0000,402.3622) rectangle
+    (165.0000,432.3622);
+  \path[cm={{-0.43047,0.0,0.0,0.43047,(237.10326,361.00992)}},draw=black,fill=black,line
+    join=round,miter limit=4.00,line width=0.400pt] (175.0000,96.5945) .. controls
+    (175.0000,100.7366) and (171.6421,104.0945) .. (167.5000,104.0945) .. controls
+    (163.3579,104.0945) and (160.0000,100.7366) .. (160.0000,96.5945) .. controls
+    (160.0000,92.4523) and (163.3579,89.0945) .. (167.5000,89.0945) .. controls
+    (171.6421,89.0945) and (175.0000,92.4523) .. (175.0000,96.5945) -- cycle;
+  \path[cm={{-0.43047,0.0,0.0,0.43047,(237.10326,391.00992)}},draw=black,fill=black,line
+    join=round,miter limit=4.00,line width=0.400pt] (175.0000,96.5945) .. controls
+    (175.0000,100.7366) and (171.6421,104.0945) .. (167.5000,104.0945) .. controls
+    (163.3579,104.0945) and (160.0000,100.7366) .. (160.0000,96.5945) .. controls
+    (160.0000,92.4523) and (163.3579,89.0945) .. (167.5000,89.0945) .. controls
+    (171.6421,89.0945) and (175.0000,92.4523) .. (175.0000,96.5945) -- cycle;
+  \path[cm={{-0.43047,0.0,0.0,0.43047,(207.10326,390.00992)}},draw=black,fill=black,line
+    join=round,miter limit=4.00,line width=0.400pt] (175.0000,96.5945) .. controls
+    (175.0000,100.7366) and (171.6421,104.0945) .. (167.5000,104.0945) .. controls
+    (163.3579,104.0945) and (160.0000,100.7366) .. (160.0000,96.5945) .. controls
+    (160.0000,92.4523) and (163.3579,89.0945) .. (167.5000,89.0945) .. controls
+    (171.6421,89.0945) and (175.0000,92.4523) .. (175.0000,96.5945) -- cycle;
+  \path[cm={{-0.43047,0.0,0.0,0.43047,(207.10326,361.00992)}},draw=black,fill=black,line
+    join=round,miter limit=4.00,line width=0.400pt] (175.0000,96.5945) .. controls
+    (175.0000,100.7366) and (171.6421,104.0945) .. (167.5000,104.0945) .. controls
+    (163.3579,104.0945) and (160.0000,100.7366) .. (160.0000,96.5945) .. controls
+    (160.0000,92.4523) and (163.3579,89.0945) .. (167.5000,89.0945) .. controls
+    (171.6421,89.0945) and (175.0000,92.4523) .. (175.0000,96.5945) -- cycle;
+  \path[draw=black,fill=cb3b3b3,line join=round,miter limit=4.00,line
+    width=1.200pt,rounded corners=0.0000cm] (135.0000,465.9051) rectangle
+    (165.0000,495.9051);
+  \path[cm={{-0.43047,0.0,0.0,0.43047,(237.10326,424.55291)}},draw=black,fill=black,line
+    join=round,miter limit=4.00,line width=0.400pt] (175.0000,96.5945) .. controls
+    (175.0000,100.7366) and (171.6421,104.0945) .. (167.5000,104.0945) .. controls
+    (163.3579,104.0945) and (160.0000,100.7366) .. (160.0000,96.5945) .. controls
+    (160.0000,92.4523) and (163.3579,89.0945) .. (167.5000,89.0945) .. controls
+    (171.6421,89.0945) and (175.0000,92.4523) .. (175.0000,96.5945) -- cycle;
+  \path[cm={{-0.43047,0.0,0.0,0.43047,(237.10326,454.55291)}},draw=black,fill=black,line
+    join=round,miter limit=4.00,line width=0.400pt] (175.0000,96.5945) .. controls
+    (175.0000,100.7366) and (171.6421,104.0945) .. (167.5000,104.0945) .. controls
+    (163.3579,104.0945) and (160.0000,100.7366) .. (160.0000,96.5945) .. controls
+    (160.0000,92.4523) and (163.3579,89.0945) .. (167.5000,89.0945) .. controls
+    (171.6421,89.0945) and (175.0000,92.4523) .. (175.0000,96.5945) -- cycle;
+  \path[cm={{-0.43047,0.0,0.0,0.43047,(207.10326,453.55291)}},draw=black,fill=black,line
+    join=round,miter limit=4.00,line width=0.400pt] (175.0000,96.5945) .. controls
+    (175.0000,100.7366) and (171.6421,104.0945) .. (167.5000,104.0945) .. controls
+    (163.3579,104.0945) and (160.0000,100.7366) .. (160.0000,96.5945) .. controls
+    (160.0000,92.4523) and (163.3579,89.0945) .. (167.5000,89.0945) .. controls
+    (171.6421,89.0945) and (175.0000,92.4523) .. (175.0000,96.5945) -- cycle;
+  \path[cm={{-0.43047,0.0,0.0,0.43047,(207.10326,424.55291)}},draw=black,fill=black,line
+    join=round,miter limit=4.00,line width=0.400pt] (175.0000,96.5945) .. controls
+    (175.0000,100.7366) and (171.6421,104.0945) .. (167.5000,104.0945) .. controls
+    (163.3579,104.0945) and (160.0000,100.7366) .. (160.0000,96.5945) .. controls
+    (160.0000,92.4523) and (163.3579,89.0945) .. (167.5000,89.0945) .. controls
+    (171.6421,89.0945) and (175.0000,92.4523) .. (175.0000,96.5945) -- cycle;
+  \path[draw=black,line join=miter,line cap=butt,miter limit=4.00,line
+    width=1.200pt] (165.0000,467.3622) -- (165.0000,432.3622);
+  \path[draw=black,line join=miter,line cap=butt,miter limit=4.00,line
+    width=1.200pt] (135.0000,432.3622) -- (135.0000,467.3622);
+  \path[draw=black,line join=miter,line cap=butt,miter limit=4.00,line
+    width=1.200pt] (165.0000,402.3622) .. controls (220.0000,447.3622) and
+    (165.0000,497.3622) .. (165.0000,497.3622);
+  \path[draw=black,line join=miter,line cap=butt,miter limit=4.00,line
+    width=1.200pt] (135.0000,497.3622) .. controls (80.0000,442.3622) and
+    (135.0000,402.3622) .. (135.0000,402.3622);
+  \path[draw=black,line join=miter,line cap=butt,line width=0.800pt]
+    (135.0000,495.3622) -- (143.0000,505.3622);
+  \path[draw=black,line join=miter,line cap=butt,line width=0.800pt]
+    (143.0000,496.3622) -- (150.0000,505.3622);
+  \path[draw=black,line join=miter,line cap=butt,line width=0.800pt]
+    (150.0000,496.3622) -- (156.0000,505.3622);
+  \path[draw=black,line join=miter,line cap=butt,line width=0.800pt]
+    (156.0000,496.3622) -- (162.0000,505.3622);
+  \path[draw=black,line join=miter,line cap=butt,line width=0.800pt]
+    (162.0000,496.3622) -- (168.0000,505.3622);
+  \path[fill=black] (110,522.36218) node[above right] (text3089) {(a) P3KC1M1.};
+  \path[fill=black] (230,522.36218) node[above right] (text3093) {(b) P4KC3M1.};
+  \path[fill=black] (350,522.36218) node[above right] (text3097) {(c) P4KC3M3.};
+  \path[fill=black] (160,667.36218) node[above right] (text3101) {(d) P5KC1M2.};
+  \path[fill=black] (300,667.36218) node[above right] (text3105) {(e) P5KC4M1.};
+\end{scope}
+
+\end{tikzpicture}
+

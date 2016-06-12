@@ -1,0 +1,80 @@
+
+\definecolor{c808080}{RGB}{128,128,128}
+\definecolor{cffffff}{RGB}{255,255,255}
+
+
+\begin{tikzpicture}[y=0.80pt, x=0.8pt,yscale=-1, inner sep=0pt, outer sep=0pt]
+%\node at(150,255){\includegraphics[scale=0.7]{tuft2.png}};​
+
+\node[anchor=north west,inner sep=0] at (65,205) {\includegraphics[scale=0.7]{tuft2.png}};
+
+\begin{scope}[shift={(0,-308.26769)}]
+  \path[draw=black,line join=miter,line cap=butt,line width=0.800pt]
+    (184.0000,432.3622) -- (184.0000,435.3622);
+  \path[draw=black,line join=miter,line cap=butt,line width=0.800pt]
+    (181.0000,432.3622) -- (181.0000,435.3622) -- (187.0000,435.3622) --
+    (187.0000,432.3622) -- cycle;
+  \path[draw=c808080,line join=miter,line cap=butt,line width=0.800pt]
+    (180.0000,452.3622) .. controls (182.0000,423.3622) and (191.0000,432.3622) ..
+    (191.0000,432.3622) .. controls (191.0000,434.3622) and (192.0000,438.3622) ..
+    (188.0000,443.3622) .. controls (185.0000,448.3622) and (176.0000,457.3622) ..
+    (176.0000,457.3622);
+  \path[draw=black,line join=miter,line cap=butt,line width=0.800pt]
+    (174.0000,427.3622) -- (144.0000,427.3622) -- (144.0000,397.3622);
+  \path[draw=black,line join=miter,line cap=butt,line width=0.800pt]
+    (140.7101,431.3239) -- (101.8687,408.8728) .. controls (94.2514,426.5879) and
+    (98.6260,447.2269) .. (112.8741,460.2312) .. controls (131.2306,476.9853) and
+    (159.6934,475.6864) .. (176.3814,457.4920) -- (186.0624,452.7653) .. controls
+    (171.9324,476.3656) and (141.2280,484.0781) .. (117.5331,469.8971) .. controls
+    (93.8383,455.7161) and (86.1258,425.0117) .. (100.3068,401.3169) .. controls
+    (100.9659,400.2156) and (101.6671,399.1402) .. (102.4089,397.8783) --
+    (145.7101,422.6637);
+  \path[draw=black,line join=miter,line cap=butt,line width=0.800pt]
+    (144.0000,427.3622) -- (120.0000,414.3622);
+  \path[cm={{1.65625,0.0,0.0,1.65625,(-125.58406,167.70586)}},draw=black,fill=cffffff,line
+    join=round,miter limit=4.00,fill opacity=0.011,line width=0.8pt]
+    (151.5221,150.6755) .. controls (154.8611,144.5950) and (162.6028,142.3157) ..
+    (168.8137,145.5847) .. controls (172.9584,147.7662) and (175.5415,152.0029) ..
+    (175.5357,156.6099);
+  \path[fill=black] (127,406.36218) node[above right] (text3836-1) {$\theta$};
+  \path[draw=black,fill=black,line join=miter,line cap=butt,line width=0.800pt]
+    (174.0000,427.3622) -- (170.0000,425.3622) -- (170.0000,429.3622) --
+    (174.0000,427.3622);
+  \path[draw=black,fill=black,line join=miter,line cap=butt,line width=0.800pt]
+    (144.0000,396.3622) -- (146.0000,400.3622) -- (142.0000,400.3622) --
+    (144.0000,396.3622);
+  \path[fill=black] (172,422.36218) node[above right] (text3884-8) {x};
+  \path[fill=black] (137,396.36218) node[above right] (text3888-45) {y};
+  \path[fill=black] (50,492.36218) node[above right] (text3997-9) {(a) Tufting
+    with a simple curved needle.};
+  \path[cm={{-0.05094,-0.08823,0.08823,-0.05094,(140.1013,446.08274)}},draw=black,fill=cffffff,line
+    join=round,miter limit=4.00,fill opacity=0.011,line width=0.8pt]
+    (190.0000,124.0945) .. controls (190.0000,151.7087) and (167.6142,174.0945) ..
+    (140.0000,174.0945) .. controls (112.3858,174.0945) and (90.0000,151.7087) ..
+    (90.0000,124.0945) .. controls (90.0000,96.4802) and (112.3858,74.0945) ..
+    (140.0000,74.0945) .. controls (167.6142,74.0945) and (190.0000,96.4802) ..
+    (190.0000,124.0945) -- cycle;
+  \path[draw=black,dash pattern=on 0.80pt off 0.80pt,line join=round,miter
+    limit=4.00,line width=0.800pt,rounded corners=0.0000cm] (89.0000,452.3622)
+    rectangle (199.0000,467.3622);
+  \path[draw=black,fill=black,line join=miter,line cap=butt,line width=0.800pt]
+    (126.0000,416.3622) -- (130.0000,413.3622) -- (127.0000,411.3622) -- cycle;
+  \path[cm={{3.70093,0.0,0.0,3.70093,(-348.20685,105.25901)}},draw=c808080,line
+    join=round,miter limit=4.00,line width=0.8pt] (141.6443,95.1169) .. controls
+    (136.9375,100.1672) and (129.0278,100.4456) .. (123.9776,95.7388) .. controls
+    (119.1636,91.2522) and (118.6525,83.8017) .. (122.8086,78.6997);
+  \path[cm={{4.11215,0.0,0.0,4.11215,(-401.82172,70.36228)}},draw=c808080,line
+    join=round,miter limit=4.00,line width=0.8pt] (142.1629,94.5240) .. controls
+    (137.7835,99.8607) and (129.9071,100.6368) .. (124.5704,96.2574) .. controls
+    (119.2338,91.8780) and (118.4577,84.0016) .. (122.8371,78.6649) .. controls
+    (122.9125,78.5730) and (122.9892,78.4822) .. (123.0672,78.3925);
+  \path[draw=c808080,dash pattern=on 0.80pt off 0.80pt,line join=miter,line
+    cap=butt,miter limit=4.00,line width=0.800pt] (176.0000,457.3622) --
+    (182.0000,459.3622);
+  \path[fill=black] (15,632.36218) node[above right] (text3079) {(b)  Loops formed
+    by tufting. Adapted from Brandt, Ge{\ss}ler and};
+  \path[fill=black] (15,650.6452) node[above right] (text3008) {Filsinger (2002).};
+\end{scope}
+
+\end{tikzpicture}
+

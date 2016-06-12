@@ -1,0 +1,12 @@
+
+
+
+\begin{tikzpicture}[y=0.80pt, x=0.8pt,yscale=-1, inner sep=0pt, outer sep=0pt]
+\path[fill=black] (0,0) node[above right] (text2987) { };
+\node at(130,30){\pgftext{\includegraphics[height=2cm]{class200.png}}};
+\path[fill=black] (25,90) node[above right] (text2987) {(a) Type 209.};
+\path[fill=black] (185,90) node[above right] (text2991) {(b) Type 211.};
+
+
+\end{tikzpicture}
+

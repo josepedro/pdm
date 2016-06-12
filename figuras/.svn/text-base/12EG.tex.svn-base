@@ -1,0 +1,46 @@
+
+
+
+\begin{tikzpicture}[y=0.80pt, x=0.8pt,yscale=-1, inner sep=0pt, outer sep=0pt]
+\path[fill=black] (50,130) node[above right] (text3088) { };
+\path[fill=black] (500,360) node[above right] (text3088) { };
+\node at(253,240){\pgftext{\includegraphics[height=190px]{12EG.png}}};
+\begin{scope}[shift={(0,-308.26769)}]
+  \path[shift={(0,308.26769)},draw=black,line join=miter,line cap=butt,line
+    width=0.800pt] (280.0000,264.0945) -- (245.0000,269.0945);
+  \path[draw=black,line join=miter,line cap=butt,line width=0.800pt]
+    (300.0000,585.3622) -- (275.0000,595.3622);
+  \path[shift={(0,308.26769)},draw=black,line join=miter,line cap=butt,line
+    width=0.800pt] (355.0000,294.0945) -- (365.0000,269.0945);
+  \path[shift={(0,308.26769)},draw=black,line join=miter,line cap=butt,line
+    width=0.800pt] (275.0000,209.0945) -- (290.0000,194.0945);
+  \path[shift={(0,308.26769)},draw=black,line join=miter,line cap=butt,line
+    width=0.800pt] (170.0000,189.0945) -- (155.0000,204.0945);
+  \path[shift={(0,308.26769)},draw=black,line join=miter,line cap=butt,line
+    width=0.800pt] (323.0000,285.0945) -- (313.0000,299.0945);
+  \path[draw=black,fill=black,line join=miter,line cap=butt,line width=0.800pt]
+    (280.0000,572.3622) -- (275.4501,575.2429) -- (274.7761,571.0541) -- cycle;
+  \path[draw=black,fill=black,line join=miter,line cap=butt,line width=0.800pt]
+    (300.0000,585.3622) -- (296.6583,589.5851) -- (294.6374,585.8547) -- cycle;
+  \path[draw=black,fill=black,line join=miter,line cap=butt,line width=0.800pt]
+    (323.0000,593.3622) -- (321.0000,598.3622) -- (319.0000,596.3622) -- cycle;
+  \path[shift={(0,308.26769)},draw=black,fill=black,line join=miter,line
+    cap=butt,line width=0.800pt] (355.0000,294.0945) -- (358.0000,291.0945) --
+    (355.0000,290.0945) -- (355.0000,294.0945);
+  \path[shift={(0,308.26769)},draw=black,fill=black,line join=miter,line
+    cap=butt,line width=0.800pt] (275.0000,209.0945) -- (279.0000,208.0945) --
+    (277.0000,206.0945) -- (275.0000,209.0945);
+  \path[draw=black,fill=black,line join=miter,line cap=butt,line width=0.800pt]
+    (170.0000,497.3622) -- (168.0000,502.3622) -- (165.0000,499.3622) -- cycle;
+  \path[fill=black] (115,522.36218) node[above right] (text3077) {Prismatic};
+  \path[shift={(0,308.26769)},fill=black] (295.71429,195.16591) node[above right]
+    (text3081) {Prismatic};
+  \path[fill=black] (285,622.36218) node[above right] (text3085) {Revolute};
+  \path[shift={(0,308.26769)},fill=black] (370,264.45163) node[above right]
+    (text3089) {Helical (a)};
+  \path[fill=black] (190,582.36218) node[above right] (text3093) {Helical (c)};
+  \path[fill=black] (208,602.36218) node[above right] (text3097) {Revolute (b)};
+\end{scope}
+
+\end{tikzpicture}
+

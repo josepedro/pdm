@@ -1,0 +1,16 @@
+
+
+
+\begin{tikzpicture}[y=0.80pt, x=0.8pt,yscale=-1, inner sep=0pt, outer sep=0pt]
+\path[fill=black] (0,0) node[above right] (text2987) { };
+\node at(200,30){\pgftext{\includegraphics[height=2cm]{inter_intra.png}}};
+\path[fill=black] (60,90) node[above right] (text2987) {(a)
+    Intralooping.};
+\path[fill=black] (175,90) node[above right] (text2991) {(b)
+    Interlooping.};
+\path[fill=black] (300,90) node[above right] (text2995) {(c)
+    Interlacing.};
+
+
+\end{tikzpicture}
+

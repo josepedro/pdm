@@ -660,7 +660,12 @@
     \end{espacosimples}
 \end{center}
 \vfill\vfill\vfill
+
+
 \begin{center}
+ {
+ {\ABNTorientadordata}:\ {\ABNTorientadorname}\protect\\
+ }
     \begin{espacosimples}
     \setlength{\parskip}{.3cm}
     \ABNTifnotempty{\ABNTlocaldata}
@@ -711,17 +716,7 @@
     \end{espacosimples}
 \end{center}
 \vfill
-%\begin{textodafolhaderosto}
- %   {\comentarioformat\UFSCcomentariodata}\par
- %   \ABNTifnotempty{\ABNTorientadordata}%
-%	{%
-%	{\ABNTorientadordata}:\ {\ABNTorientadorname}\protect\\
-%	}
- %   \ABNTifnotempty{\ABNTcoorientadordata}
-%	{%
-%	{\ABNTcoorientadordata}:\ {\ABNTcoorientadorname}
-%	}
-%\end{textodafolhaderosto}
+
 \vfill\vfill
 \begin{center}
     \begin{espacosimples}

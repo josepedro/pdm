@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.1.29)  12 JUN 2016 16:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.1.29)  13 JUN 2016 01:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -140,25 +140,24 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 (/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
 Package: babel 2014/09/25 3.9l The Babel package
 
-(/usr/share/texlive/texmf-dist/tex/generic/babel-english/english.ldf
-Language: english 2012/08/20 v3.3p English support from the babel system
+(/usr/share/texlive/texmf-dist/tex/generic/babel-portuges/portuges.ldf
+Language: portuges 2008/03/18 v1.2q Portuguese support from the babel system
 
 (/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
 File: babel.def 2014/09/25 3.9l Babel common definitions
 \babel@savecnt=\count103
 \U@D=\dimen122
 )
-\l@canadian = a dialect from \language\l@american 
-\l@australian = a dialect from \language\l@british 
-\l@newzealand = a dialect from \language\l@british 
+\l@brazil = a dialect from \language\l@portuges 
+Package babel Info: Making " an active character on input line 145.
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2015/03/17 v1.2c Input encoding file
 \inpenc@prehook=\toks16
 \inpenc@posthook=\toks17
 
-(/usr/share/texlive/texmf-dist/tex/latex/base/ansinew.def
-File: ansinew.def 2015/03/17 v1.2c Input encoding file
+(/usr/share/texlive/texmf-dist/tex/latex/base/latin1.def
+File: latin1.def 2015/03/17 v1.2c Input encoding file
 ))
 (/usr/share/texlive/texmf-dist/tex/generic/ulem/ulem.sty
 \UL@box=\box52
@@ -946,201 +945,71 @@ Non-PDF special ignored!
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
 [0
 
-]
-Overfull \hbox (23.57552pt too wide) in paragraph at lines 166--166
-\OT1/cmr/m/n/9 de P^^Sos-Gradua^^Xc~ao em En-gen-haria Mec^anica
- []
+] (./Dissertacao.toc)
+\tf@toc=\write5
+\openout5 = `Dissertacao.toc'.
 
+ [1] [2
 
-Overfull \hbox (9.53789pt too wide) in paragraph at lines 166--166
-\OT1/cmr/m/n/9 Coorientador: Hen-rique Simas, Dr. Eng. 
- []
-
-[1]
-Underfull \hbox (badness 10000) in paragraph at lines 166--166
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 166--166
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 166--166
-
- []
-
-
-Overfull \hbox (3.33333pt too wide) in paragraph at lines 166--167
-[]
- []
-
-[2] [3
+] (./1_introduction.tex
+Cap\'{\i }tulo 1.
+[3
 
 ] [4
 
-] [5] [6
-
-] [7] [8
-
-] [9] [10
-
-] [11] [12
-
-] [13
-
-] [14
-
-] [15
-
-] [16
+]
+Cap\'{\i }tulo 2.
+[5] [6
 
 ]
-(./Dissertacao.lof
-Overfull \hbox (10.73865pt too wide) in paragraph at lines 3--3
-[] \OT1/cmr/m/n/10 Fig-ure []Comparison be-tween en-do-lu-mi-nal and con-ven-ti
-onal surgery. 
- []
-
-)
-\tf@lof=\write5
-\openout5 = `Dissertacao.lof'.
-
- [17] [18
-
-] (./Dissertacao.lot)
-\tf@lot=\write6
-\openout6 = `Dissertacao.lot'.
-
- [19] [20
-
-] (./Dissertacao.las)
-\tf@las=\write7
-\openout7 = `Dissertacao.las'.
-
- [21] [22
+Cap\'{\i }tulo 3.
+[7] [8
 
 ]
-(./Dissertacao.lsb)
-\tf@lsb=\write8
-\openout8 = `Dissertacao.lsb'.
-
- [23] [24
-
-] (./Dissertacao.toc)
-\tf@toc=\write9
-\openout9 = `Dissertacao.toc'.
-
- [25] [26
+Cap\'{\i }tulo 4.
+[9] [10
 
 ]
-(./1_introduction.tex
-Chapter 1.
+Cap\'{\i }tulo 5.
+) (./Dissertacao.bbl [11] [12
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+]) (./a0_animations.tex [13] [14
 
- [27
-
-]
-(./figuras/two-one_side_device.tex)
-Overfull \hbox (13.15549pt too wide) in paragraph at lines 31--32
- [][] 
- []
-
-
-<./figuras/comparacao_endoluminal_convencional.png, id=107, 375.65344pt x 197.9
-8969pt>
-File: ./figuras/comparacao_endoluminal_convencional.png Graphic file (type png)
-
- <use ./figuras/comparacao_endoluminal_convencional.png>
-Package pdftex.def Info: ./figuras/comparacao_endoluminal_convencional.png used
- on input line 42.
-(pdftex.def)             Requested size: 285.67152pt x 150.56305pt.
- [28])
-(./Dissertacao.bbl
-Underfull \hbox (badness 10000) in paragraph at lines 59--3
-
- []
-
-[29 <./figuras/comparacao_endoluminal_convencional.png>] [30])
-(./a0_animations.tex [31
-
-] [32
-
-] [33] [34
+] [15]
+Package atenddvi Info: Last page = 18.
+ [16
 
 ]
 Apendice A.
-
-Overfull \hbox (39.07271pt too wide) in paragraph at lines 7--8
-[]\OT1/cmr/m/n/10 Access the web-site in \OT1/cmr/m/it/10 http://150.162.1.90/p
-ergamum/biblioteca/index.php
- []
-
- <./figuras/anima-mov/1.png> <./figuras/anima-mov/2.png> <./figuras/anima-mov/3
-.png> <./figuras/anima-mov/4.png> <./figuras/anima-mov/5.png> <./figuras/anima-
-mov/6.png> <./figuras/anima-mov/7.png> <./figuras/anima-mov/8.png> <./figuras/a
-nima-mov/9.png> <./figuras/anima-mov/10.png> <./figuras/anima-mov/11.png> <./fi
-guras/anima-mov/12.png> <./figuras/anima-mov/13.png> <./figuras/anima-mov/14.pn
-g> <./figuras/anima-mov/15.png> <./figuras/anima-mov/16.png> <./figuras/anima-m
-ov/17.png> <./figuras/anima-mov/18.png> <./figuras/anima-mov/19.png> <./figuras
-/anima-mec/1.png> <./figuras/anima-mec/2.png> <./figuras/anima-mec/3.png> <./fi
-guras/anima-mec/4.png> <./figuras/anima-mec/5.png> <./figuras/anima-mec/6.png> 
-<./figuras/anima-mec/7.png> <./figuras/anima-mec/8.png> <./figuras/anima-mec/9.
-png> <./figuras/anima-mec/10.png> <./figuras/anima-mec/11.png> <./figuras/anima
--mec/12.png> <./figuras/anima-mec/13.png> <./figuras/anima-mec/14.png> <./figur
-as/anima-mec/15.png> <./figuras/anima-mec/16.png> <./figuras/anima-mec/17.png> 
-<./figuras/anima-mec/18.png> <./figuras/anima-mec/19.png> <./figuras/anima-mec/
-20.png>
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
- <./figuras/anima-ajuste/1.png> <./figuras/anima-ajuste/2.png> <./figuras/anima
--ajuste/3.png> <./figuras/anima-ajuste/4.png> <./figuras/anima-ajuste/5.png> <.
-/figuras/anima-ajuste/6.png> <./figuras/anima-ajuste/7.png> <./figuras/anima-aj
-uste/8.png>
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
 )
 +-------------------------------------------------------------------+
 | Comentario, sugestao ou critica sobre o abnTeX? Entre em contato: |
 |                  http://abntex.codigolivre.org.br                 |
 +-------------------------------------------------------------------+
-[35]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 221.
-Package atenddvi Info: Last page = 38.
- [36]
 Package atveryend Info: Executing hook `AfterLastShipout' on input line 221.
- (./Dissertacao.aux)
+(./Dissertacao.aux)
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 221.
 Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 221.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 221.
  ) 
 Here is how much of TeX's memory you used:
- 17414 strings out of 493085
- 321911 string characters out of 6136917
- 425226 words of memory out of 5000000
- 20383 multiletter control sequences out of 15000+600000
- 12292 words of font info for 47 fonts, out of 8000000 for 9000
+ 16894 strings out of 493085
+ 312574 string characters out of 6136917
+ 422726 words of memory out of 5000000
+ 19930 multiletter control sequences out of 15000+600000
+ 8847 words of font info for 34 fonts, out of 8000000 for 9000
  1149 hyphenation exceptions out of 8191
- 54i,10n,61p,742b,758s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 54i,8n,59p,557b,212s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/shar
-e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texli
-ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/f
-onts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/typ
-e1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
-c/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
-cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.
-pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb>
-Output written on Dissertacao.pdf (38 pages, 2673385 bytes).
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on Dissertacao.pdf (18 pages, 80679 bytes).
 PDF statistics:
- 599 PDF objects out of 1000 (max. 8388607)
- 289 compressed objects within 3 object streams
+ 85 PDF objects out of 1000 (max. 8388607)
+ 59 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 1209 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 13 words of extra memory for PDF output out of 10000 (max. 10000000)
 

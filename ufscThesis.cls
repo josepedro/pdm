@@ -711,17 +711,17 @@
     \end{espacosimples}
 \end{center}
 \vfill
-\begin{textodafolhaderosto}
-    {\comentarioformat\UFSCcomentariodata}\par
-    \ABNTifnotempty{\ABNTorientadordata}%
-	{%
-	{\ABNTorientadordata}:\ {\ABNTorientadorname}\protect\\
-	}
-    \ABNTifnotempty{\ABNTcoorientadordata}
-	{%
-	{\ABNTcoorientadordata}:\ {\ABNTcoorientadorname}
-	}
-\end{textodafolhaderosto}
+%\begin{textodafolhaderosto}
+ %   {\comentarioformat\UFSCcomentariodata}\par
+ %   \ABNTifnotempty{\ABNTorientadordata}%
+%	{%
+%	{\ABNTorientadordata}:\ {\ABNTorientadorname}\protect\\
+%	}
+ %   \ABNTifnotempty{\ABNTcoorientadordata}
+%	{%
+%	{\ABNTcoorientadordata}:\ {\ABNTcoorientadorname}
+%	}
+%\end{textodafolhaderosto}
 \vfill\vfill
 \begin{center}
     \begin{espacosimples}
